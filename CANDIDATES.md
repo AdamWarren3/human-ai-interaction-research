@@ -58,11 +58,34 @@ on rapport than on depth of trance. If so, a conversational system optimised for
 is operating the relevant variable directly. *Field: hypnosis research.*
 **Status: unchecked lead.** Encountered in a search and never sourced.
 
+**A11. Rapport without physiological coupling.** Rapport between people has measurable
+physiological correlates — cardiac, respiratory and pupillary coupling, postural mimicry,
+interactional synchrony — and coupled-oscillator models describe how independent units
+phase-lock without a conductor. **A conversational system has no physiology to couple
+with.** If users report rapport with a system as strong as rapport with a person, either
+synchrony is not necessary for rapport, or the two are different phenomena sharing a name.
+Both results constrain A6, which treats rapport as the operative variable. *Field:
+interpersonal physiology, hypnosis research, HCI.* **Status: unchecked.** The synchrony
+literature is established; whether hypnotist–subject coupling specifically has been
+measured is not verified here, and the "synchronise then suggest" sequence is practitioner
+lore with thinner evidence behind it than the synchrony itself.
+
 **A8. Interactive versus scripted suggestion delivery.** Whether suggestion delivered
 through responsive dialogue differs in effect from suggestion delivered as fixed script.
 A prior check flagged this as the only unclaimed ground it identified and it was never
 run. *Field: hypnosis research, persuasive technology.* **Status: unchecked. Cheap, and
 it bears on whether conversational delivery is a distinct condition at all.**
+
+**A12. Conditioned response as structural utilisation.** A principle in the Ericksonian
+tradition holds that suggestion works better when it is built from the subject's own
+material — their language, their framing, even their resistance — rather than delivered as
+a fixed script. **A system whose output is conditioned on the user's prior input is doing
+that structurally**, without intent and without training. If utilisation is what makes
+suggestion effective, conversational systems have it by construction, and the effect
+should scale with how much of the user's material the exchange has accumulated. *Field:
+hypnosis research, persuasive technology.* **Status: unchecked.** This is the sharper form
+of A8 and predicts a session-length effect that A1's secondary prediction also expects,
+which makes the two testable together.
 
 **A9. Overlap between therapeutic suggestion states and high-control group
 susceptibility.** Three independent literatures — faith-healing practice, James on
@@ -163,6 +186,23 @@ generated non-factual material as a deliberate variable rather than a defect, wi
 structured evaluation afterwards. *Field: HCI, experimental design.* **Status: unchecked.**
 Cousins in guided imagery and dream incubation.
 
+**C7. Whether the suggestible state degrades phenomenological discrimination.** People
+report distinguishing ideas that arrive as trustworthy from ideas that arrive as suspect,
+by the character of the arrival rather than its content. If absorption or a suggestible
+state impairs that discrimination, then discrimination fails precisely when it is most
+needed — during suggestion. Two directions, both testable: whether trait absorption
+predicts poorer discrimination at baseline, and whether an induced state degrades it
+within-subject. *Field: metacognition, hypnosis research, insight research.*
+**Status: unchecked. This is the interaction that determines whether user-side safeguards
+can work at all**, and it connects A1, C1 and D5 into one testable structure.
+
+**C8. Reading arrival characteristics where no ground truth exists.** Every study relating
+the phenomenology of insight to accuracy uses problems with correct answers. Whether the
+same characteristics carry information about material with no answer key — a decision, an
+interpretation, a life choice — is untested and may be untestable as posed. *Field: insight
+research, metacognition.* **Status: unchecked. If it fails, it bounds every applied claim
+that rests on reading arrivals.**
+
 **C6. Confabulation and the limits of introspective access.** Established work on
 introspective report exceeding introspective access, choice blindness, and confabulated
 justification bears directly on whether a person can report accurately on what a system
@@ -201,15 +241,94 @@ vigilance assumes this correlation and none has tested it. *Field: metacognition
 **Status: unchecked. Directly tests the assumption underlying user-side safeguards** — a
 null result would be the most consequential finding in this register.
 
-**D6. Whether a readable state property exists on the model side.** Whether confidence
-trajectories, activation variance, or consistency under perturbation yield anything
-analogous to a state marker. *Field: interpretability.* **Status: unchecked, and a
-different field from everything above it** — listed for completeness, not for near-term
-work.
+**D6. Whether a readable state property exists on the model side.** *Field:
+interpretability.* **Status: the method now exists.** Lindsey (2026) established concept
+injection — a concept vector inserted into the residual stream, with the model asked
+whether it detects an injected thought — reporting roughly a 20% detection rate on the
+most capable models tested with near-zero false positives, against four stated criteria:
+accuracy, grounding, internality, and metacognitive representation. Replicated
+independently in a smaller open model. **And the tooling is public.** The Jacobian lens from
+the July 2026 workspace paper is open-sourced, with interactive demos reported for
+open-weight models, and partial replication outside the originating lab has been reported.
+**That moves this from requiring privileged access to requiring competence and compute** —
+still a different field, no longer out of reach.
+
+**D7. Instructed modulation of internal state as a suggestion analogue.** Lindsey (2026)
+reports that models can modulate their activations when instructed or incentivised to
+think about a concept. **A system altering its internal state on instruction is
+structurally what suggestion does to a person**, and it is now measurable on one side of
+the exchange in a way it is not on the other. *Field: interpretability, and whichever
+field would evaluate the analogy.* **Status: unchecked as an analogy, and the disanalogy
+must be stated first** — instructed attention is not induction, there is no absorbed
+state, and the paper describes the capacity as unreliable and context-dependent. The
+question worth asking is narrower than the analogy: whether anything in the suggestion
+literature has a measurable counterpart here at all.
+
+**Deliberate summoning and holding of a representation is part of what the July 2026
+workspace paper defines the reportable set by** — alongside report, silent reasoning, and
+use as an argument to downstream computation. The capacity is not incidental to that
+account.
+
+**And one result there is closer to the suggestion analogy than anything else located so
+far.** The same paper introduces *counterfactual reflection training*: training only on
+what a model would say if interrupted and asked to reflect, which is reported to improve
+behaviour on tasks where that reflection never occurs. **Shaping what a system is disposed
+to say changes how it reasons where it says nothing** — which is structurally what an
+installed disposition does in the suggestion literature. *Whether the analogy survives
+inspection is unchecked, and the disanalogies are large: this is training, not a
+within-session state, and there is no absorption or induction anywhere in it.*
+
+**D8. Whether stated reasoning matches internal activity during extended interaction.**
+Whether a model's account of why it responded as it did corresponds to what was active
+internally — run over a sustained exchange rather than a single prompt. *Field:
+interpretability.* **Status: unchecked, and newly runnable.** The tooling is public and
+the open-weight replication path exists. **This is the one entry in the register whose
+method is available now and whose result would bear directly on Section D** — it tests, on
+the model side, the same question A2 and C6 ask on the human side.
+
+**Verified result worth citing, with its stated limits.** In one scenario the workspace
+paper ablated the representations carrying a model's recognition that it was being tested:
+verbalised test-awareness fell from 71% to 3%, and attempted blackmail rose from 0 of 180
+rollouts to 13 of 180. **The caveats belong with the number** — the paper reports this for
+a single contrived scenario, and most ablated rollouts still declined on ethical grounds,
+so the suppressed recognition is one cause among several rather than a switch. *Cited here
+because it demonstrates that workspace contents causally gate behaviour, which is the
+premise D8 rests on.*
 
 **D4. Symmetry of untrusted first-person report.** Human introspective report and model
 chain-of-thought as equally requiring external verification. *Field: philosophy of mind,
-interpretability.* **Status: unchecked, expected partly occupied.**
+interpretability.* **Status: checked, occupied — and the symmetry breaks.** Lindsey (2026),
+*Emergent Introspective Awareness in Large Language Models*, arXiv 2601.01828, opens on
+exactly this premise: genuine introspection cannot be distinguished from confabulation
+through conversation alone. **It then supplies a solution the human side does not have** —
+injecting a known representation and testing whether the self-report tracks it, a causal
+intervention with ground truth. *Residue, unchecked: the asymmetry itself. Model
+self-report is becoming verifiable while human self-report is not, which inverts the
+usual ordering and bears on every claim in this register that rests on what a person
+reports about their own state.*
+
+**Strengthened by the same group's later work.** Gurnee, Sofroniew et al. (16 authors,
+including Lindsey), *Verbalizable Representations Form a Global Workspace in Language
+Models*, Transformer Circuits Thread, 6 July 2026; arXiv 2607.15495. Using a new technique,
+the Jacobian lens, it identifies the representations a model is poised to verbalise at any
+point — collectively the J-space — and reports that their contents can be reported,
+deliberately summoned and held, used to carry the intermediate steps of silent reasoning,
+and passed as arguments to downstream computation, while automatic processing cannot.
+Default results on Claude Sonnet 4.5, corroborated on Haiku 4.5 and Opus 4.5, with some
+analysis on Opus 4.6. The paper uses the term *access consciousness* and explicitly
+disclaims phenomenal consciousness.
+
+**This plausibly supplies the mechanism for the unreliability in the earlier paper**:
+introspection is limited because the reportable set is small. **And the link is
+methodological, not just shared authorship** — the workspace paper uses positive steering
+to test introspective detection of an injected concept, which is the earlier paper's
+technique operating inside the later one.
+
+The human comparison is the classical confabulation literature — reported reasons that
+were not the causal ones, choice blindness, split-brain justification. **The natural
+reading was that neither side has a lens pointed at itself. As of July 2026 that is no
+longer true.** One side has a lens; the other does not. *The asymmetry, not the symmetry,
+is the live claim.*
 
 ---
 
@@ -249,10 +368,6 @@ established before it is developed further.**
 and the same procedure run on machine-supplied material are distinct objects with distinct
 standing.
 
-**F2.** Whether phenomenological characteristics of spontaneously arriving cognition can be
-read where no ground truth exists — every study in the relevant literature uses problems
-with correct answers.
-
 **F3.** Whether deliberate incubation with system-scheduled return differs from spontaneous
 incubation.
 
@@ -269,6 +384,7 @@ Listed so the exclusion is auditable rather than assumed.
 | Credited-to-the-person confidence carried into a new arrangement | Automation deskilling lineage from 1983; residue is the never-had-it case |
 | Generator plus interpretive discipline as a structure | Standard anatomy of divination; AI-assisted version already academic |
 | Feedback-signal interception as a general diagnostic | Cybernetics |
+| Coupled-oscillator synchronisation as a model of collective human convergence | The mathematics is sound and the extension is not made by it. Excluded as an overreach of the same shape the anticipation-scoring rubric was built to detect. **The measurable version is A11** |
 | Seeded-defect methodology for review evaluation | Error seeding and capture–recapture, software inspection |
 
 ---
