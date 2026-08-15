@@ -87,6 +87,23 @@ hypnosis research, persuasive technology.* **Status: unchecked.** This is the sh
 of A8 and predicts a session-length effect that A1's secondary prediction also expects,
 which makes the two testable together.
 
+**A13. Posthypnotic suggestion delivered without operator, induction, or reversal cue.**
+The classical paradigm has all three; a chat interface has none. *Field: hypnosis research.*
+**Status: checked, occupied on the mechanism, open on the delivery (2026-08-15).** The
+mechanism is a century and a half old — execution at a later time of a suggestion given in
+trance, with the source unrecalled where amnesia is present. Posthypnotic amnesia is a
+*retrieval* phenomenon, not encoding or storage: it blocks explicit recall while sparing
+implicit memory, priming and savings in relearning (International Society for Hypnosis
+encyclopedia, 2024; ScienceDirect 0010028580900109). This matters methodologically — a
+participant forgetting a suggestion is not evidence it stopped operating; in this literature
+that is the expected signature. Kihlstrom-tradition work frames it as *source monitoring*,
+which connects it directly to A2. Barnier & McConkey, *Aust J Psychol* 51(1) 1999: simple
+posthypnotic suggestions drew 94% response, complex ones 16%. Caution: a 2009 study found a
+plain waking request produced high compliance on its own, so the trance framing may not be
+doing the work. *Residue: no operator, no induction, and — the sharp one — no reversal cue.
+Nothing cancels the suggestion. That absence is unstudied and is the same absence B10
+names.*
+
 **A9. Overlap between therapeutic suggestion states and high-control group
 susceptibility.** Three independent literatures — faith-healing practice, James on
 self-surrender, and identity-fusion research — converge on the observation that the
@@ -128,11 +145,37 @@ different satisfiable conditions in each. *Field: applied ethics.* **Status: unc
 a standalone contribution. Constituent of B1.
 
 **B4. Pre-negotiated self-binding consent.** A person alone with a system sets terms in
-advance: a stop token, content limits, or none. Distinct from advance directives, which
-require a third-party enforcer. *Field: bioethics, consent theory.* **Status: checked,
-occupied.** Immersive-experience safety practice covers it thoroughly. *Residue: adaptation
-to a single participant whose only counterpart is the system, with no facilitator and no
-debrief. Unchecked and specific.*
+advance: a stop token, content limits, or none. *Field: bioethics, consent theory.*
+**Status: checked, occupied — and the occupying literature is the third option B1 is
+missing (2026-08-15).** Ulysses contracts / mental-health advance directives / self-binding
+agreements address exactly this structure: consenting while competent to something that will
+alter the later capacity to consent or withdraw. Davis, *Kennedy Institute of Ethics Journal*
+18(1) 2008 (PubMed 18561579) supplies the argument — autonomy is respected **diachronically
+and prospectively**, not retrospectively and not merely synchronically, because the agent
+lives with the consequences over time. Integrative review: PubMed 37366064, which notes the
+terminology is scattered across Ulysses Contracts, Odysseus Transfers, PADs with Ulysses
+Clauses. See also van Willigenburg & Delaere, *J Med Philos* 30 (2005); Buchanan, *Phil &
+Public Affairs* 17(4) 1988; Widdershoven & Berghmans, *J Med Ethics* 27 (2001). Standing
+cautions in that literature: enforcement can amount to involuntary treatment, the contract
+must be self-initiated during competence, and a 2020 analysis argues the case fails for
+borderline personality disorder.
+*Residue, and it is the whole difficulty: every instance in this literature has a third party
+who holds the rope and enforces the contract against the in-state person's refusal. The
+self-directed case has no enforcer. A Ulysses contract with nobody holding it is a
+resolution, and resolutions are what the state dissolves. That is where B1's argument has to
+happen — an extension claim, not a gap.*
+
+**B10. The null condition: self-directed high-intensity suggestion with no arrangement at
+all.** Not a fourth option alongside supervision, pre-commitment and inadequacy — the
+condition those three exist to address. No stop token, no limits, no enforcer, no debrief,
+no cancellation. What it produces, how long it runs, what ends it, and at what cost. Stated
+as an outcome, not a route. *Field: applied ethics, harm documentation.* **Status: unchecked
+as a documented category, and it must not be checked by running it.** First-person accounts
+that already exist are not first — "Lost in Delusion" (arXiv 2606.00975) is built on 40
+real-world case reports of chatbot-reinforced harm, and arXiv 2603.16567 taxonomises the
+same territory from chat logs. *To move: a hazard report, not a method paper. The claim it
+can support is what the absence of an arrangement produces, which is precisely the argument
+B4's residue needs.*
 
 **B5. Supervised high-intensity suggestion in therapeutic contexts.** Whether consented
 high-intensity work — including trauma-facing material — is defensible where a qualified
@@ -172,9 +215,48 @@ phenomenology rather than provenance. *Field: insight research, metacognition.*
 
 **C2. Systems as personalised generators of meaningful-feeling coincidence.** A generated
 candidate primes attention; matches then appear and feel confirmatory; behaviour changes;
-outcomes follow. Components are documented — frequency illusion, expectancy,
-self-fulfilling prophecy. The personalised high-volume generator is not. *Field: cognitive
-bias, apophenia.* **Status: unchecked.**
+outcomes follow. *Field: cognitive bias, apophenia.* **Status: checked, occupied
+(2026-08-15, four queries).** Within-session: "Personal Validation Effect in LLMs," CHI 2026
+(10.1145/3772318.3791851), N=238 — fictitious pre-scripted AI predictions were rated 42%
+more *personalised* and 36% more valid when positive, so felt specificity tracks no
+information about the reader. Bjarnason, "The LLMentalist Effect" (2023, essay, not
+peer-reviewed) applies cold reading to chat LLMs and covers coincidence directly. Krook,
+arXiv 2503.18387, already uses the mirror framing. Between-session: longitudinal social-AI
+work is a field — see "Only Time Will Tell," *IJHCI* 2026 (structured survey; 13 studies of
+a month or more, four of a year or more) and "When Chatbots Accommodate," arXiv 2606.04431
+(N=110, four weeks, persistent cross-session memory; probing declines over weeks and the
+model defers to user framing most on belief expressions). Meaningful coincidence already has
+a validated daily-diary instrument — PubMed 38722266, cross-lagged multilevel, N=169; PLOS
+ONE pone.0300121. And the loop minus the machine is gratitude journaling, an RCT literature
+since 2005 whose results are contested (Renshaw & Olinger Steeves 2016 meta-analysis:
+generally ineffective).
+*Residue, and it is narrow: the daily-diary coincidence instrument has not been run on people
+in extended LLM interaction with cross-session memory as the priming source. The instrument
+exists, so this is executable, and it has a built-in control — responsive model versus
+notebook. That is the only limb of the loop without a literature: acknowledgment from an
+agent that builds on what was reported.*
+
+**C9. Unsolicited initiation, high specificity and prior dismissal as untested moderators of
+the personal-validation effect.** Each element separately: initiation is the standard form in
+cold reading, not the exception; specificity and recipient skepticism are both named
+moderators. The conjunction, in an LLM setting, is not tested. *Field: cognitive bias,
+human–AI interaction.* **Status: unchecked as a conjunction; each element partly occupied
+(2026-08-15).** Dickson & Kelly, *Psychological Reports* 57(1) 1985: 367–382 identify the
+**generality of the statements** as one of the chief interpretation variables governing
+acceptance, alongside apparent relevance, favourability, and the origin of the procedure —
+so specific-versus-vague is a studied dimension, not an unexamined one. Snyder, Shenkel &
+Lowery, *J Consult Clin Psychol* 45(1) 1977: 104–114 concluded it is misguided to study
+which people accept Barnum feedback apart from the situational factors that elicit
+acceptance, which bears directly on any claim resting on the recipient's stance; skeptics
+and those familiar with the effect show greater resistance, so dismissal is a moderator with
+a literature. Note also that the effect has no single established mechanism — self-
+enhancement, confirmation-seeking, source credibility and base-rate truth are all partly
+supported and interact.
+*Residue: the CHI 2026 paradigm manipulated valence only. Running it factorially —
+solicited/unsolicited × specific/generic × sought/dismissed — is a real study and a direct
+extension of a published design. **The properties "falsifiable" and "landed" are the disputed
+claim and must not be written in as features; an entry that lists them has the conclusion in
+its premises.** Single-case material cannot settle this and is not evidence for it.*
 
 **C3. Derived inference and confabulation are indistinguishable in output.** A pattern
 genuinely present in a user's data and a fluent guess produce the same sentence in the same
@@ -369,7 +451,9 @@ and the same procedure run on machine-supplied material are distinct objects wit
 standing.
 
 **F3.** Whether deliberate incubation with system-scheduled return differs from spontaneous
-incubation.
+incubation. *Note 2026-08-15: the deliberate-burying-and-retrieval method described in
+practice is structurally posthypnotic suggestion; the checked material now sits at A13.
+F3 remains only for the non-suggestion case — ordinary incubation with a scheduled prompt.*
 
 ---
 
@@ -386,6 +470,7 @@ Listed so the exclusion is auditable rather than assumed.
 | Feedback-signal interception as a general diagnostic | Cybernetics |
 | Coupled-oscillator synchronisation as a model of collective human convergence | The mathematics is sound and the extension is not made by it. Excluded as an overreach of the same shape the anticipation-scoring rubric was built to detect. **The measurable version is A11** |
 | Seeded-defect methodology for review evaluation | Error seeding and capture–recapture, software inspection |
+| First-person account of AI-facilitated altered state as a first known case | "Lost in Delusion" (arXiv 2606.00975), built on 40 real-world case reports; "Characterizing Delusional Spirals through Human-LLM Chat Logs" (arXiv 2603.16567); "Divination by Prompt" (arXiv 2606.12418) on LLMs used as oracles. **The residue is not novelty — it is the null-condition hazard report at B10** |
 
 ---
 
