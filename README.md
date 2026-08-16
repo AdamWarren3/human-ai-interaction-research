@@ -53,3 +53,14 @@ auditable rather than assumed.
 
 Nothing here has been peer reviewed. Nothing here has been executed. These are stated
 predictions and the reasoning behind them.
+
+## License
+
+© 2026 Adam Warren
+
+`CANDIDATES.md`, `README.md`, and everything under `papers/` and `preregistrations/`
+are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may
+share and adapt this material for any purpose, including commercially, with attribution.
+
+Cite as: Warren, A. (2026). *Human–AI Interaction Research: A Candidate Register.*
+https://github.com/adamwarren3/human-ai-interaction-research
