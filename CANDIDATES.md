@@ -19,18 +19,64 @@ existing work covers it. *Extension* — existing framework, not yet applied to 
 **A1. Trait absorption predicts reduced error detection in extended LLM interaction.**
 Absorption predicts hypnotic responsiveness and narrative transportation; transportation
 involves reduced counterarguing; error detection in a conversational partner's output is
-a form of counterarguing. *Field: individual differences, cognitive psychology.*
-**Status: checked, open.** Adjacent work approaches from the model's side.
-*To move: preregistration written; needs power analysis, scale licensing, ethics.*
+a form of counterarguing. *Field: individual differences, cognitive psychology; human
+factors.* **Status: occupancy checked, open — but both premises checked 2026-08-15 and both
+came back qualified. The entry survives; the claim is now incremental, not novel.**
 
-**A2. Source-monitoring failure in extended LLM dialogue.** Cryptomnesia is more likely
-when cognitive load impairs source monitoring. Extended conversation with a model
-combines sustained load, absorbed attention, and output objectively conditioned on the
-user's own input, so authorship is genuinely mixed. Prediction: elevated rates of
-misattributing model-originated ideas to oneself. *Field: memory, source monitoring.*
-**Status: checked, open — one query.** Existing AI work addresses the model's source
-amnesia, not the user's. *To move: one further search, then preregistration. Paradigms and
-baseline rates already exist.*
+*Premise 1 — the absorption→hypnotisability link is contested and has been for forty years.*
+Council, Kirsch & Hafner, *J Pers Soc Psychol* 50 (1986): 182–189 argued the TAS–
+hypnotisability correlation is an artifact of testing context. Nadon, Hoyt, Register &
+Kihlstrom, *J Pers Soc Psychol* 60 (1991): 144–153 failed to replicate across two studies
+(N=475, N=434), finding the context effect weak and variable and reversed in the second, and
+reaffirmed absorption's construct validity. Oakman, Woody & Bowers, *Contemp Hypnosis* (1996),
+N=88, replicated the context effect. Milling, Kirsch & Burgess, *Contemp Hypnosis* 17 (2000):
+32–41, N=150 same context vs N=146 separate contexts, found associations significantly
+stronger in the same context and reported **r = .24 same-context against r = .05 separate-
+context**, not attributable to sampling or to the interval between sessions. Barnier (1999)
+adds that non-hypnotic contexts are not interchangeable.
+**Design consequence: the TAS must be administered in a context unconnected to the study, and
+the power analysis must target the separate-context estimate, not the same-context one. A
+same-session administration is not defensible in front of this literature.**
+
+*Premise 2 — the outcome measure is owned by human factors.* Failure to detect errors an
+automated aid did not flag is an **omission error**, with a 25-year literature. Parasuraman &
+Manzey, *Human Factors* 52(3) (2010): 381–410 is the integrative review: complacency arises
+under multiple-task load, appears in naive **and expert** participants, **cannot be overcome
+by simple practice**, and automation bias **cannot be prevented by training or instructions**.
+Skitka et al., *Int J Human-Computer Studies* (1999) found accountability lowers it and that
+omission errors specifically reflect cognitive vigilance decrements. Bahner, Hüper & Manzey
+(2008) tie both error types to reduced verification behaviour. Lyell et al. measured omission
+errors directly in e-prescribing and found task complexity and interruptions did not move
+automation bias.
+**Design consequence: the covariate set as written — domain familiarity, reasoning, time on
+task — omits the variables this field considers primary. Trust in automation, complacency
+potential and verification behaviour must be measured, or a human-factors reviewer rejects
+the design on sight.**
+
+*What the claim now is: whether trait absorption adds incremental predictive value over the
+established automation-bias moderators. That is defensible and testable. "Nobody has looked
+at who misses errors in machine output" is not, and must not be written.*
+*To move: preregistration needs both design changes above, plus power analysis, scale
+licensing, ethics. **A2 does not depend on the absorption construct and is not owned by
+automation bias — on this evidence it is the stronger lead study.***
+
+**A2. Source-monitoring failure in extended LLM dialogue.** *Field: memory, source
+monitoring.* **Status: RETIRED 2026-08-19 — the study was run by someone else and
+published.** Zindulka, T., Goller, S., Fernandes, D., Welsch, R. & Buschek, D. (2026), "The
+AI Memory Gap: Users Misremember What They Created With AI or Without," *Proceedings of CHI
+2026*, doi 10.1145/3772318.3791494 — preregistered, 184 participants, who generated and
+elaborated ideas both unaided and with an LLM chatbot and were asked one week later to
+identify the source of each. **Correct attribution dropped after AI use, most steeply in
+mixed human–AI workflows.** Validated against a computational model of source memory,
+framed through the Source Monitoring Framework, citing the generation effect and the
+Brown & Murphy cryptomnesia paradigm. Adjacent and also occupied: Draxler et al. (2024),
+"The AI Ghostwriter Effect," *ACM TOCHI* 31(2) — users do not perceive ownership of
+AI-generated text yet self-declare as authors.
+*The differences available — extended conversation rather than structured ideation, a longer
+delay, no condition labels — are design variations on a question that has been answered.
+The one real difference is that they measured ideas and sentences while this register's
+interest is beliefs, and that is already **C10**. Retired there rather than kept as a thin
+variant, on the same reasoning that retired P8.*
 
 **A3. Format-dependence of the protection people carry into suggestion channels.** The
 belief that one cannot be influenced without agreeing is roughly correct about formal
@@ -257,6 +303,33 @@ solicited/unsolicited × specific/generic × sought/dismissed — is a real stud
 extension of a published design. **The properties "falsifiable" and "landed" are the disputed
 claim and must not be written in as features; an entry that lists them has the conclusion in
 its premises.** Single-case material cannot settle this and is not evidence for it.*
+
+**C10. Whether search-inflated confidence becomes belief, or stops at self-assessment.**
+Treating an external store as a memory partner shifts what gets encoded, and searching for
+explanations inflates self-assessed internal knowledge — including on topics never searched,
+and even when the search returns nothing useful. Every measure in that literature is of
+*self-assessed knowledge*. Whether the inflated confidence converts a claim into a premise
+the person reasons from is not measured. *Field: transactive memory, metacognition,
+human–AI interaction.* **Status: checked, occupied on the effect; open on the conversion
+(2026-08-18).** Sparrow, B., Liu, J. & Wegner, D. M. (2011), *Science* 333:776–778, doi
+10.1126/science.1207745 — when future access is expected, people encode *where* rather than
+*what*. Replication is mixed (Storm et al., 2017) and a 2024 meta-analysis reports the effect
+as real but strongly moderated by perceived reliability of the store, device type and
+cognitive load. Fisher, M., Goddu, M. K. & Keil, F. C. (2015), *Journal of Experimental
+Psychology: General* 144(3):674–687, doi 10.1037/xge0000070 — nine experiments; the effect
+held when the search returned nothing, so it is the act rather than the content. Ward (2013)
+found outright misattribution of found information to one's own memory; Eliseev et al.
+(2023), *Applied Cognitive Psychology*, replicated it and found that merely seeing search
+snippets sufficed.
+*Residue, and it is the whole entry: the bridge from inflated self-assessment to belief
+formation is unmeasured. **A2 was retired into this entry on 2026-08-19**, which sharpens it:
+source memory for *ideas and sentences* produced with a model is now measured and degrades
+(CHI 2026, 184 participants, one-week delay). What remains unmeasured is whether the same
+failure applies to a belief a person is currently reasoning from, which is a different object
+and a harder one to instrument. A generative system is a harder case than a search engine, because
+it does not point at information but returns it as fluent prose resembling the user's own
+reasoning — which supplies more of the features that produced the original effect, not fewer.
+Connects to C2's daily-diary residue and to the source-monitoring spine at A2.*
 
 **C3. Derived inference and confabulation are indistinguishable in output.** A pattern
 genuinely present in a user's data and a fluent guess produce the same sentence in the same
