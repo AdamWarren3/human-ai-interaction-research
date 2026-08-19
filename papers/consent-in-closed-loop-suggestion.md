@@ -189,23 +189,67 @@ Every mechanism in Section 7 assumes co-participants, a facilitator and a debrie
 subject alone with a system has none. The only counterpart is the system, which is also
 the party the limits are set against, and there is no second observer.
 
-**A self-directed high-intensity context can be made better than nothing and cannot be
-made adequate by any arrangement described here.** Pre-agreed limits, an out-of-band stop,
-a distinct intensity control and a retrievable record each improve on their absence. None
-supplies an independent observer, and Section 4 indicates the subject is the party least
-able to serve as one.
+There is an obvious objection, and it is the strongest one available. It says that
+Section 6's third context is not deficient but simply differently arranged: the subject
+sets terms in advance, while competent, for a self who will not be — and that this is a
+recognised structure with its own literature rather than an improvisation.
 
-This mirrors the unresolved question in the clinical literature — whether an adaptive
-system offers the checks a programming visit provided — with one difference. In the
-clinical case a clinician exists and the question is whether the device bypasses them. In
-the non-clinical case **there was never a clinician to bypass.**
+**The objection is correct about the structure.** Ulysses contracts, mental health
+advance directives and self-binding agreements address precisely this problem: a person
+authorising, while competent, something their future self will predictably refuse. The
+governing argument is that autonomy is respected diachronically and prospectively rather
+than only synchronically, because the agent lives with the consequences over time; the
+person who set the terms and the person who wants out are the same person, and the earlier
+one is not automatically overruled by the later. That argument is not a technicality. It
+is the reason Section 5's conditions take the form they do — limits fixed before the
+exchange, a target authored rather than agreed to, an exit whose operation does not
+require the state it is meant to escape. **Section 5 is a Ulysses contract, and this paper
+should say so.**
+
+It fails here for one reason, and naming it is more useful than the observation it
+replaces.
+
+**Every arrangement in that literature has a third party who holds the contract.** A
+clinician, a proxy, a court. The mechanism is not that the earlier self wrote something
+down; it is that someone else is positioned to act on it when the later self objects. The
+same literature's standing cautions are all about that party — that enforcement can amount
+to involuntary treatment, that the instrument must be self-initiated during competence,
+that safeguards are needed against the holder's own bias. Those are the anxieties of a
+structure whose defining feature is that somebody else is holding the rope.
+
+In the self-directed case there is nobody to hold it, and the vacancy cannot be filled.
+
+The system cannot hold it: it is the counterparty the limits are set against, and an
+instrument enforced by the party it constrains is not a constraint. The subject cannot
+hold it: Section 4 indicates the subject is the party least able to assess their own
+state, which is the condition the contract exists to anticipate. And no third party is
+available, because a third party is what *self-directed* means the absence of.
+
+**A self-directed high-intensity context can therefore be made better than nothing and
+cannot be made adequate by any arrangement described here.** Pre-agreed limits, an
+out-of-band stop, a distinct intensity control and a retrievable record each improve on
+their absence, and each is a term in a contract with no holder. What is missing is not
+foresight and not documentation. It is enforcement.
+
+This is a sharper statement of the same gap the clinical literature leaves open. There the
+question is whether an adaptive system bypasses the clinician the programming visit
+supplied. Here **there was never a clinician to bypass** — and the pre-commitment
+literature, read closely, says that is not a detail but the whole of the difference.
 
 **And this is the paper's sharpest observation about current deployment.** The
-configuration just described — fully equipped and still inadequate — is better resourced
-than the ordinary case. Most people interacting at length with adaptive systems have no
-pre-agreed limits, no stop distinct from quitting, no intensity control and no retrievable
-record. The inadequacy of the best-equipped self-directed arrangement is a statement about
-what is already deployed with none of it.
+configuration just described — fully equipped, its terms authored in advance, and still
+without a holder — is better resourced than the ordinary case. Most people interacting at
+length with adaptive systems have no pre-agreed limits, no stop distinct from quitting, no
+intensity control and no retrievable record. The inadequacy of the best-equipped
+self-directed arrangement is a statement about what is already deployed with none of it.
+
+**What this section does not claim.** That the self-directed case is therefore
+impermissible: an autonomous adult may choose an arrangement this paper describes as
+inadequate, and inadequacy is a claim about the arrangement rather than about their
+standing to enter it. That a holder could not exist: the argument is that none is
+available within the three parties present, not that no fourth is conceivable, and what
+such a party would have to be is left open. And that pre-commitment is worthless here — it
+is the difference between an arrangement that is better than nothing and one that is not.
 
 ## 9. Limitations
 
@@ -234,8 +278,19 @@ review; the adaptive DBS consent literature quoted in Section 2; the preregister
 study in Section 4; the role-play safety mechanics and their internal critique in Section
 7.
 
+**Verified 2026-08-15 from primary source:** the pre-commitment literature in Section 8 —
+Davis, "How to justify enforcing a Ulysses contract when Ulysses is competent to refuse,"
+*Kennedy Institute of Ethics Journal* 18(1), 2008, for the diachronic autonomy argument;
+van Willigenburg & Delaere, *Journal of Medicine and Philosophy* 30, 2005; Buchanan,
+*Philosophy and Public Affairs* 17(4), 1988; Widdershoven & Berghmans, *Journal of Medical
+Ethics* 27, 2001; and the integrative review of self-binding agreements in clinical
+practice (PubMed 37366064) for the terminological spread and the standing cautions on
+enforcement.
+
 **Required before submission:** full references in the target venue's format; confirmation
-of the registered study's final status; and **a systematic rather than targeted search of
+of the registered study's final status; **a systematic rather than targeted search of
 the neuroethics literature** — Section 2 rests on a targeted one, and this paper's central
 claim is that a specific extension has not yet been made, which cannot be asserted on the
-strength of a handful of queries.
+strength of a handful of queries; and **the same for the pre-commitment literature**, since
+Section 8 now asserts that every arrangement in it has a third-party holder. That is an
+absence claim of the same kind and carries the same burden.
