@@ -12,7 +12,8 @@ accordingly are well established in clinical neurotechnology, and a substantial
 neuroethics literature addresses consent for them. That literature developed around
 implanted devices, for patients with diagnosed disorders, under continuous clinical
 supervision. The same architecture is now being assembled for non-invasive suggestion
-delivery to healthy people, and the consent framework does not transfer intact. This
+delivery to healthy people, and we argue that the consent framework does not transfer
+intact to that setting. This
 paper identifies three specific failures of transfer, argues that disclosure-based
 consent is insufficient here for a reason established experimentally rather than
 philosophically, proposes four structural conditions in its place, and shows that these
@@ -52,12 +53,15 @@ once built, need not be used with a trained hypnotist in the room.
 This ground is occupied. What follows extends it rather than replacing it.
 
 Neuroethics has addressed adaptive and closed-loop systems for years, principally through
-adaptive deep brain stimulation. A 2025 scoping review of closed-loop neurotechnology
-covering seventy-seven references calls directly for informed consent procedures tailored
-to adaptive systems, and observes that such systems can modulate neural activity in ways
-that may blur the distinction between voluntary and externally driven actions — noting
-that whether patients experience these interventions as an extension of their own agency
-or as an external influence remains largely unexplored.
+adaptive deep brain stimulation. Haag et al. (2025), a scoping review of ethical
+engagement in closed-loop neurotechnology studies, calls directly for informed consent
+procedures tailored to adaptive systems, and observes that such systems can autonomously
+modulate neural activity in ways that may blur the distinction between voluntary and
+externally driven actions — noting that the extent to which patients perceive these
+interventions as an extension of their own agency or as an external influence remains
+largely unexplored. Its headline finding is that explicit ethical assessment in this
+literature is rare, and that ethical issues are typically folded into technical or
+procedural discussion without structured analysis.
 
 Two positions from that literature are load-bearing here.
 
@@ -209,7 +213,7 @@ should say so.**
 It fails here for one reason, and naming it is more useful than the observation it
 replaces.
 
-**Every arrangement in that literature has a third party who holds the contract.** A
+**In every arrangement we located in that literature, a third party holds the contract.** A
 clinician, a proxy, a court. The mechanism is not that the earlier self wrote something
 down; it is that someone else is positioned to act on it when the later self objects. The
 same literature's standing cautions are all about that party — that enforcement can amount
@@ -217,7 +221,8 @@ to involuntary treatment, that the instrument must be self-initiated during comp
 that safeguards are needed against the holder's own bias. Those are the anxieties of a
 structure whose defining feature is that somebody else is holding the rope.
 
-In the self-directed case there is nobody to hold it, and the vacancy cannot be filled.
+In the self-directed case there is nobody to hold it, and we can see no way to fill the
+vacancy from the parties present.
 
 The system cannot hold it: it is the counterparty the limits are set against, and an
 instrument enforced by the party it constrains is not a constraint. The subject cannot
@@ -287,10 +292,60 @@ Ethics* 27, 2001; and the integrative review of self-binding agreements in clini
 practice (PubMed 37366064) for the terminological spread and the standing cautions on
 enforcement.
 
-**Required before submission:** full references in the target venue's format; confirmation
-of the registered study's final status; **a systematic rather than targeted search of
-the neuroethics literature** — Section 2 rests on a targeted one, and this paper's central
-claim is that a specific extension has not yet been made, which cannot be asserted on the
-strength of a handful of queries; and **the same for the pre-commitment literature**, since
-Section 8 now asserts that every arrangement in it has a third-party holder. That is an
-absence claim of the same kind and carries the same burden.
+**On absence claims, revised 2026-08-20.** Two claims in earlier drafts asserted what an
+entire literature does not contain. Both have been rewritten to assert only what the
+searches behind them found. Section 8 now reads *in every arrangement we located*, rather
+than *every arrangement*; the abstract now says *we argue that the consent framework does
+not transfer intact*, rather than stating the failure as established. **This is not
+hedging for its own sake.** A claim about the contents of a literature requires a
+systematic review to support; a claim about what a targeted search returned requires only
+that the search be described. The paper makes the second kind, and the argument it carries
+is unaffected — what changes is that the reader is told which one they are being offered.
+
+**Required before submission:** full references in the target venue's format, with a
+reference list; confirmation of the registered study's final status; and — if either
+absence claim is to be strengthened from *we did not locate* to *there is none* — a
+systematic search of the neuroethics literature for Section 2 and of the pre-commitment
+literature for Section 8, each reported with its databases, date range and query terms.
+
+---
+
+## References
+
+**Complete as of 2026-08-20. Entries marked *pending* are named in the text and not yet
+resolved to a full citation; they are listed so the gap is visible rather than invisible.**
+
+Buchanan, A. (1988). Advance directives and the personal identity problem. *Philosophy and
+Public Affairs*, 17(4), 277–302.
+
+Davis, J. K. (2008). How to justify enforcing a Ulysses contract when Ulysses is competent
+to refuse. *Kennedy Institute of Ethics Journal*, 18(1), 87–106.
+
+Grimmer, H. J., Tangen, J. M., Freydenzon, A., & Laukkonen, R. E. (2023). The illusion of
+insight: Detailed warnings reduce but do not prevent false "Aha!" moments. *Cognition and
+Emotion*, 37(2), 329–338. https://doi.org/10.1080/02699931.2023.2187352
+
+Haag, L., Starke, G., Ploner, M., & Ienca, M. (2025). Ethical gaps in closed-loop
+neurotechnology: A scoping review. *npj Digital Medicine*, 8(1), 510.
+https://doi.org/10.1038/s41746-025-01908-4
+
+Schwind, V., Tadesse, N. Z., Silva da Cunha, E., Hamidi, Y., Sultani, S. S., & Sehrt, J.
+(2025). A scoping review of informed consent practices in human–computer interaction
+research. *ACM Transactions on Computer-Human Interaction*, 32(4), 1–60.
+https://doi.org/10.1145/3721284
+
+Starke, G., Basaran Akmazoglu, T., Colucci, A., Vermehren, M., van Beinum, A., Buthut, M.,
+Soekadar, S. R., Bublitz, C., Chandler, J. A., & Ienca, M. (2024). Qualitative studies
+involving users of clinical neurotechnology: A scoping review. *BMC Medical Ethics*, 25,
+87. https://doi.org/10.1186/s12910-024-01087-z
+
+van Willigenburg, T., & Delaere, P. (2005). Protecting autonomy as authenticity using
+Ulysses contracts. *Journal of Medicine and Philosophy*, 30(4), 395–409.
+
+Widdershoven, G., & Berghmans, R. (2001). Advance directives in psychiatric care: A
+narrative approach. *Journal of Medical Ethics*, 27(2), 92–97.
+
+*Pending — the adaptive DBS consent discussion quoted in Section 2; the registered
+hypnotic-susceptibility and psychophysiology study described in Section 4; the Nordic live
+action role-play safety literature drawn on in Section 7; the integrative review of
+self-binding agreements (PubMed 37366064).*
