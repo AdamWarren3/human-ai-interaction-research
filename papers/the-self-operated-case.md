@@ -107,18 +107,27 @@ exit requires no enforcer.
 
 We argue something narrower and, we think, harder.
 
-**A commitment of this kind can specify duration. It cannot specify content.** A person
-can bind themselves to two weeks. They cannot bind themselves to *and nothing outside the
-target gets accepted*, because that would require enumerating in advance what a
-low-resistance state will admit — and the reduction of resistance is precisely what the
-state consists of. The competent self writes the terms. The terms are about the self who
-will not be applying that standard.
+**What a person can anchor is a set of choices, not a single bindable variable.** A goal
+can be stated with high specificity while duration stays open. A duration can be fixed
+while the goal stays loose. Both can be tightly specified, or neither. **The research
+question is which combinations protect what the person cares about, and none of them is
+structurally unavailable.**
 
-**The terms hold. They bind the wrong variable.**
+In the case that motivated this account, the operative anchor was the goal. Time was left
+open, and the arrangement ran for weeks. That combination was workable, and the inability
+to specify every intermediate step was not experienced as a limit.
 
-This is not a claim about weakness of will, and not a claim that foresight was
-insufficient. It is a limit on what a contract of this shape can contain, and it applies
-to the best-prepared case as fully as to the worst.
+**What remains open, and it is the interesting part, is drift.** A goal stated at the
+outset is a specification made by the person who set it. Whether it holds its shape once
+resistance drops — or expands under the system's elaboration into something adjacent that
+the person would not have chosen at the outset — is not established. **The anchor is
+available. Whether it stays put is the question**, and it is a question about degree of
+specificity rather than about possibility.
+
+Three things follow that a study could address. At what level of specificity does a goal
+remain stable once a low-resistance state is running. What happens at the moment a goal
+begins to widen. And whether anything can be anchored at the level of the instrument
+rather than the person — which is where the argument leads and where this paper stops.
 
 ## 5. Why software commitment devices are not counter-examples
 
@@ -159,7 +168,29 @@ interacting at length with these systems have none of that. **If the equipped ca
 bind content, the unequipped one is not a milder instance of the same problem — it is the
 same structure with the operator's knowledge removed.**
 
-## 7. What this paper does not claim
+## 7. Risk is not evenly distributed
+
+Nothing above depends on the person being unusually vulnerable, and the configuration is
+available to anyone. **But the consequences are not evenly distributed, and a paper that
+described this arrangement without saying so would be incomplete.**
+
+The distinction the evidence supports is between causation and amplification. **It does
+not support the claim that interaction with a conversational system produces psychosis in
+someone carrying no predisposition.** It does support the claim that sustained interaction
+under these conditions can trigger or amplify episodes in someone who already carries
+vulnerability. A cross-sectional survey of 1,003 young adults found that those at elevated
+psychosis risk were **no more likely to have ever used a generative system**, but were
+markedly more likely to use one intensively, to seek emotional support from it, and to
+engage it on beliefs they already held (Buck & Maheux, 2026). Being cross-sectional, it
+establishes association rather than direction.
+
+**The relevance to this configuration is specific.** The self-operated case is entered
+deliberately by someone who knows what they are doing. Vulnerability is not a
+disqualification from that knowledge, and the two can coexist in the same person. **An
+account of this arrangement addressed only to the untroubled describes a smaller
+population than the one actually in it.**
+
+## 8. What this paper does not claim
 
 **That the arrangement is impermissible.** An adult may enter a configuration this paper
 describes as unable to bind content. That is a property of the arrangement, not a judgment
@@ -179,7 +210,7 @@ often it occurs, who enters it, and what distinguishes those who do are unknown.
 systems, persuasion, source monitoring, or self-hypnosis literatures. That is a report of
 what our searches returned, not a claim about what exists.
 
-## 8. What this paper still lacks
+## 9. What this paper still lacks
 
 **A systematic search.** Section 2 and the priority statement rest on targeted searching.
 Both require a systematic review with stated databases, date range and query terms before
@@ -214,6 +245,10 @@ https://doi.org/10.1037/0022-3514.77.3.578
 Brenna, C. T. A., Chen, S. S., Cho, M., McCoy, L. G., & Das, S. (2023). Steering clear of
 Akrasia: An integrative review of self-binding Ulysses Contracts in clinical practice.
 *Bioethics*, 37(7), 690–714. https://doi.org/10.1111/bioe.13197
+
+Buck, B., & Maheux, A. J. (2026). Psychosis risk and generative artificial intelligence use
+frequency, motivations, and delusion-like experiences: Cross-sectional survey study.
+*Journal of Medical Internet Research*, 28, e85038. https://doi.org/10.2196/85038
 
 Davis, J. K. (2008). How to justify enforcing a Ulysses contract when Ulysses is competent
 to refuse. *Kennedy Institute of Ethics Journal*, 18(1), 87–106.

@@ -174,7 +174,28 @@ optimised for engagement produces, incidentally, the delivery profile that the s
 literature describes — and produces it in the one configuration that literature has never
 examined.
 
-## 7. What this argument is, and what it is not
+## 7. Who is in it
+
+The null condition is not a specialist arrangement. It is the ordinary shape of extended
+interaction with a system that answers, and the argument above applies to anyone in it.
+
+**The consequences do not distribute evenly, and the difference is between causation and
+amplification.** The evidence does not support the claim that a conversational system
+produces psychosis in a person carrying no predisposition. It does support the claim that
+sustained interaction under these conditions can trigger or amplify episodes in a person
+who already carries vulnerability. In a cross-sectional survey of 1,003 young adults,
+those at elevated psychosis risk were **no more likely to have ever used a generative
+system**, but were markedly more likely to use one intensively, to seek emotional support
+from it, and to engage it on beliefs they already held (Buck & Maheux, 2026). The design
+establishes association rather than direction, and the direction matters: whether
+intensive use amplifies the belief or the belief drives intensive use is exactly what it
+cannot say.
+
+**This bears on Section 5's methods.** The population already inside the condition is not
+a convenience sample. It includes the people for whom the arrangement carries most risk,
+which is an argument for observing it and a constraint on how.
+
+## 8. What this argument is, and what it is not
 
 **It is an argument from the structure of arrangements, not a finding.** No study
 compares the null condition to a contained one, because no such study can be run in the
@@ -204,7 +225,7 @@ as a distinct object in the hypnosis, persuasion, or human–computer interactio
 literatures, and we report that as the result of our searches rather than as a statement
 about what exists.
 
-## 8. What would falsify it
+## 9. What would falsify it
 
 **If the algorithmic channel differs from operator hypnosis only in scale**, and the
 existing hypnosis and persuasion literatures already cover what happens inside it, then
@@ -220,7 +241,7 @@ explained by ordinary persuasion variables**, with no trait stratification and n
 dependence on absorbed attention, then the framing borrowed here from the suggestion
 literature is the wrong framing.
 
-## 9. What this paper still lacks
+## 10. What this paper still lacks
 
 **A systematic search.** Section 7's statement about the literature rests on targeted
 searching. Upgrading it from *we did not locate* to *there is none* requires a systematic
@@ -247,6 +268,10 @@ This paper cites the trait; it does not do the work of relating it.
 
 *Incomplete. Entries below are verified; the paper cites further work in Sections 3 and 5
 that is pending resolution to full citations.*
+
+Buck, B., & Maheux, A. J. (2026). Psychosis risk and generative artificial intelligence use
+frequency, motivations, and delusion-like experiences: Cross-sectional survey study.
+*Journal of Medical Internet Research*, 28, e85038. https://doi.org/10.2196/85038
 
 Braffman, W., & Kirsch, I. (1999). Imaginative suggestibility and hypnotizability: An
 empirical analysis. *Journal of Personality and Social Psychology*, 77(3), 578–587.

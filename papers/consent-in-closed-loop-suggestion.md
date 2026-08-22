@@ -17,7 +17,7 @@ accordingly are well established in clinical neurotechnology, and a substantial
 neuroethics literature addresses consent for them. That literature developed around
 implanted devices, for patients with diagnosed disorders, under continuous clinical
 supervision. The same architecture is now being assembled for non-invasive suggestion
-delivery to healthy people, and we argue that the consent framework does not transfer
+delivery to a general population, and we argue that the consent framework does not transfer
 intact to that setting. This
 paper identifies three specific failures of transfer, argues that disclosure-based
 consent is insufficient here for a reason established experimentally rather than
@@ -89,7 +89,7 @@ three respects, each of which changes what consent must do.
 
 **Population.** Neuroethics addresses patients with diagnosed disorders, for whom a
 therapeutic rationale, a clinical relationship and a regulatory pathway all exist. The
-systems at issue here are being developed for healthy people, potentially as consumer or
+systems at issue here are being developed for a general population, potentially as consumer or
 wellness products, where none of the three is present.
 
 **Supervision.** The clinical framework assumes a clinician in the loop; the programming
@@ -194,7 +194,28 @@ arrangement from an indefensible one is not the intensity permitted but how many
 independent mechanisms remain when one fails — and the first to fail is always the one
 depending on the subject noticing.
 
-## 8. Limitations
+## 8. Distribution of risk
+
+The conditions in Section 5 are written for a general population rather than a clinical
+one, and that is deliberate. **It should not be read as a claim that the population is
+uniform.**
+
+The distinction the evidence supports is between causation and amplification. It does not
+support the claim that interaction with a conversational system produces psychosis in a
+person carrying no predisposition. **It does support the claim that sustained interaction
+without an operator, a boundary, a reversal cue or a witness can trigger or amplify
+episodes in a person who already carries vulnerability.** A cross-sectional survey of
+1,003 young adults found those at elevated psychosis risk no more likely to have ever used
+a generative system, but markedly more likely to use one intensively, to seek emotional
+support from it, and to engage it on beliefs they already held (Buck & Maheux, 2026). The
+design establishes association, not direction.
+
+**The consequence for the four conditions is that they are not equally sufficient for
+everyone.** An arrangement satisfying all four may still be inadvisable for a particular
+person, and nothing in a structural account can identify who. That is a limit on what this
+paper's framework can do, and it is stated here rather than left for a reader to discover.
+
+## 9. Limitations
 
 **No empirical claim is made.** This is an argument from the structure of arrangements. No
 study compares consent procedures across these contexts, and the four conditions are
@@ -249,6 +270,10 @@ resolved to a full citation; they are listed so the gap is visible rather than i
 
 Buchanan, A. (1988). Advance directives and the personal identity problem. *Philosophy and
 Public Affairs*, 17(4), 277–302.
+
+Buck, B., & Maheux, A. J. (2026). Psychosis risk and generative artificial intelligence use
+frequency, motivations, and delusion-like experiences: Cross-sectional survey study.
+*Journal of Medical Internet Research*, 28, e85038. https://doi.org/10.2196/85038
 
 Davis, J. K. (2008). How to justify enforcing a Ulysses contract when Ulysses is competent
 to refuse. *Kennedy Institute of Ethics Journal*, 18(1), 87–106.
