@@ -172,6 +172,52 @@ anthropomorphism literatures are old; the specific consent implication may not b
 
 ---
 
+**A14. Whether suggestion under fully null conditions can be studied at all without
+becoming a different object.** Every arrangement in the suggestion literature supplies an
+operator, a boundary, a consent moment, a reversal cue and a witness. Placing an observer
+inside the unprotected arrangement restores one of the five, so what gets studied is a
+neighbouring configuration. *Field: research methodology, hypnosis, research ethics.*
+**Status: unchecked — the problem is stated, no protocol exists.** *Three routes appear
+available and none requires creating the condition: observation of populations already
+inside it; retrospective accounts from people who have come out of it, with the recall
+problems that carries; and content-blind monitoring — an external stop keyed to a
+predefined physiological or behavioural threshold, with no access to conversational
+content, which leaves the arrangement largely intact. To move: specify what a monitor
+would watch, who sets the threshold, and what constitutes grounds for stopping.*
+
+**A15. Container features as independently variable rather than binary.** Operator
+presence (none / self / external), boundary clarity (none / soft / hard), consent timing
+(none / prior / continuous / post hoc), reversal mechanism (none / token / external
+interrupt), witness function (none / self-monitoring / content-blind / full). *Field:
+human–computer interaction, design research, hypnosis.* **Status: unchecked — no design
+language appears to exist that treats these as tunable for non-clinical systems.**
+*Real configurations — ambient feed, ordinary chat, self-directed goal work, supervised
+high-intensity use — would then map onto one grid, with the fully null case as the
+extreme rather than a separate kind. This supersedes the binary framing currently used in
+the null-condition paper.*
+
+**A16. Which combinations of anchoring protect what, in self-directed use.** A person
+entering the self-operated configuration can specify a goal, a duration, both, or neither,
+at any level of precision. *Field: self-regulation, behavioural economics, human–computer
+interaction.* **Status: unchecked — no controlled comparison of anchor combinations
+appears to exist.** *The open questions are graded rather than binary: at what level of
+specificity a goal remains stable once resistance drops; what happens at the point a goal
+begins to widen under the system's elaboration; and whether tight-content-with-open-time
+differs in outcome from open-content-with-fixed-time. Do not restate this as a claim that
+one variable is bindable and another is not.*
+
+**A17. Whether trait absorption predicts depth of engagement and belief shift in extended
+conversation with a model.** *Field: personality, hypnosis, human–computer interaction.*
+**Status: checked, open — and the construct needs naming before the study can be
+specified.** *Absorption predicts hypnotic responsiveness and narrative transportation
+across fifty years. The measurement literature has since moved: the current hypnotisability
+scale removes absorption framing on theoretical grounds, and the leading account names a
+broader capacity — phenomenological control, generating experience to meet expectancy —
+which operates with no induction at all. A prediction here must state which construct it
+means. Confirming or falsifying it would tie the classical literature directly to the new
+delivery environment; leaving the construct ambiguous would make either result
+uninterpretable.*
+
 ## B. Consent and ethics for suggestion channels
 
 **B1. Consent conditions for non-clinical closed-loop suggestion systems.** Closed-loop
@@ -250,6 +296,17 @@ signals a supervising party would use are recoverable from the interaction itsel
 what the unsupervised context can support; if not, that null is equally load-bearing.**
 
 ---
+
+**B12. What content-binding would require at the instrument level rather than the user
+level.** A person cannot enumerate in advance everything a low-resistance state will
+admit. Whether anything could be anchored by the system instead — and what that would have
+to consist of, given that a conversational system's function is continuation where a
+commitment device's is refusal — is unaddressed. *Field: human–computer interaction,
+AI safety, design ethics.* **Status: unchecked.** *This is where the self-operated
+argument leads and where that paper stops. Existing commitment devices hold a known future
+action, detectable and bounded by a term; what would need holding here is a future state
+of judgment, which is neither. To move: establish whether the distinction is one of kind
+or of degree.*
 
 ## C. Idea generation, attribution and confabulation
 
