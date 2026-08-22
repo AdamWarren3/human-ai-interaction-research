@@ -1,7 +1,12 @@
 # Consent Conditions for Non-Clinical Closed-Loop Suggestion Systems
 
-**Draft v0.2** — 2026-08-08. Not submitted. Not peer reviewed.
-**Type:** perspective / position piece.
+**Working paper, v0.3** — 2026-08-20. Not submitted. Not peer reviewed.
+**Type:** perspective / position piece. An argument in progress; Section 8 states what it
+lacks.
+
+**Companion papers.** *The Null Condition: Suggestion Without an Arrangement* sets out the
+arrangement these conditions are written against. A third paper, on the self-operated
+case, is in preparation.
 
 ---
 
@@ -18,8 +23,9 @@ paper identifies three specific failures of transfer, argues that disclosure-bas
 consent is insufficient here for a reason established experimentally rather than
 philosophically, proposes four structural conditions in its place, and shows that these
 conditions are satisfiable to different degrees across four distinguishable contexts. It
-draws its design vocabulary from an unexpected source with fifteen years of practice
-behind it, and states plainly the one context it does not resolve.
+draws its design vocabulary from an unexpected source with roughly a decade of formalised
+practice behind it, and identifies the one context in which the conditions cannot be met
+by the parties present — treated in a companion paper.
 
 ---
 
@@ -165,8 +171,9 @@ non-clinical setting, of what the programming visit was doing in the clinical on
 
 ## 7. A tested vocabulary from an unexpected source
 
-The design requirements above have been worked on for roughly fifteen years by a
-community the ethics literature has not consulted.
+The design requirements above have been worked on for roughly a decade by a community the
+ethics literature has not consulted, building on a Nordic safeword tradition that dates to
+the 1990s.
 
 Nordic live action role-play developed formalised safety mechanics for immersive
 experience: a signal halting everything immediately; a distinct signal reducing intensity
@@ -187,76 +194,7 @@ arrangement from an indefensible one is not the intensity permitted but how many
 independent mechanisms remain when one fails — and the first to fail is always the one
 depending on the subject noticing.
 
-## 8. The case this does not resolve
-
-Every mechanism in Section 7 assumes co-participants, a facilitator and a debrief. A
-subject alone with a system has none. The only counterpart is the system, which is also
-the party the limits are set against, and there is no second observer.
-
-There is an obvious objection, and it is the strongest one available. It says that
-Section 6's third context is not deficient but simply differently arranged: the subject
-sets terms in advance, while competent, for a self who will not be — and that this is a
-recognised structure with its own literature rather than an improvisation.
-
-**The objection is correct about the structure.** Ulysses contracts, mental health
-advance directives and self-binding agreements address precisely this problem: a person
-authorising, while competent, something their future self will predictably refuse. The
-governing argument is that autonomy is respected diachronically and prospectively rather
-than only synchronically, because the agent lives with the consequences over time; the
-person who set the terms and the person who wants out are the same person, and the earlier
-one is not automatically overruled by the later. That argument is not a technicality. It
-is the reason Section 5's conditions take the form they do — limits fixed before the
-exchange, a target authored rather than agreed to, an exit whose operation does not
-require the state it is meant to escape. **Section 5 is a Ulysses contract, and this paper
-should say so.**
-
-It fails here for one reason, and naming it is more useful than the observation it
-replaces.
-
-**In every arrangement we located in that literature, a third party holds the contract.** A
-clinician, a proxy, a court. The mechanism is not that the earlier self wrote something
-down; it is that someone else is positioned to act on it when the later self objects. The
-same literature's standing cautions are all about that party — that enforcement can amount
-to involuntary treatment, that the instrument must be self-initiated during competence,
-that safeguards are needed against the holder's own bias. Those are the anxieties of a
-structure whose defining feature is that somebody else is holding the rope.
-
-In the self-directed case there is nobody to hold it, and we can see no way to fill the
-vacancy from the parties present.
-
-The system cannot hold it: it is the counterparty the limits are set against, and an
-instrument enforced by the party it constrains is not a constraint. The subject cannot
-hold it: Section 4 indicates the subject is the party least able to assess their own
-state, which is the condition the contract exists to anticipate. And no third party is
-available, because a third party is what *self-directed* means the absence of.
-
-**A self-directed high-intensity context can therefore be made better than nothing and
-cannot be made adequate by any arrangement described here.** Pre-agreed limits, an
-out-of-band stop, a distinct intensity control and a retrievable record each improve on
-their absence, and each is a term in a contract with no holder. What is missing is not
-foresight and not documentation. It is enforcement.
-
-This is a sharper statement of the same gap the clinical literature leaves open. There the
-question is whether an adaptive system bypasses the clinician the programming visit
-supplied. Here **there was never a clinician to bypass** — and the pre-commitment
-literature, read closely, says that is not a detail but the whole of the difference.
-
-**And this is the paper's sharpest observation about current deployment.** The
-configuration just described — fully equipped, its terms authored in advance, and still
-without a holder — is better resourced than the ordinary case. Most people interacting at
-length with adaptive systems have no pre-agreed limits, no stop distinct from quitting, no
-intensity control and no retrievable record. The inadequacy of the best-equipped
-self-directed arrangement is a statement about what is already deployed with none of it.
-
-**What this section does not claim.** That the self-directed case is therefore
-impermissible: an autonomous adult may choose an arrangement this paper describes as
-inadequate, and inadequacy is a claim about the arrangement rather than about their
-standing to enter it. That a holder could not exist: the argument is that none is
-available within the three parties present, not that no fourth is conceivable, and what
-such a party would have to be is left open. And that pre-commitment is worthless here — it
-is the difference between an arrangement that is better than nothing and one that is not.
-
-## 9. Limitations
+## 8. Limitations
 
 **No empirical claim is made.** This is an argument from the structure of arrangements. No
 study compares consent procedures across these contexts, and the four conditions are
@@ -268,9 +206,13 @@ professional questions outside a structural argument.
 
 **Detecting unfitness to proceed is unsolved**, here and in the clinical literature. The
 framework is constructed so that the supervised context does not depend on such a test.
-The self-directed context has no comparable resource, which is the substance of Section 8.
+The self-directed context has no comparable resource, and the configuration in which the subject is also the operator is treated in a companion paper rather than here.
 
-**The role-play material is practitioner literature**, not controlled study. It is offered
+**The role-play material originates in practice rather than in study.** It has since
+received peer-reviewed treatment — Koljonen (2020) sets out a safety-design framework and
+the history of three of these mechanics, and the *International Journal of Role-Playing*
+has published on consent in this setting. **What does not exist is controlled study of
+whether the mechanics work.** It is offered
 as a source of tested design constraints and vocabulary, not as evidence.
 
 ---
@@ -283,7 +225,8 @@ review; the adaptive DBS consent literature quoted in Section 2; the preregister
 study in Section 4; the role-play safety mechanics and their internal critique in Section
 7.
 
-**Verified 2026-08-15 from primary source:** the pre-commitment literature in Section 8 —
+**Verified 2026-08-15 from primary source:** the pre-commitment literature, now carried by
+the companion paper on the self-operated case —
 Davis, "How to justify enforcing a Ulysses contract when Ulysses is competent to refuse,"
 *Kennedy Institute of Ethics Journal* 18(1), 2008, for the diachronic autonomy argument;
 van Willigenburg & Delaere, *Journal of Medicine and Philosophy* 30, 2005; Buchanan,
@@ -292,21 +235,10 @@ Ethics* 27, 2001; and the integrative review of self-binding agreements in clini
 practice (PubMed 37366064) for the terminological spread and the standing cautions on
 enforcement.
 
-**On absence claims, revised 2026-08-20.** Two claims in earlier drafts asserted what an
-entire literature does not contain. Both have been rewritten to assert only what the
-searches behind them found. Section 8 now reads *in every arrangement we located*, rather
-than *every arrangement*; the abstract now says *we argue that the consent framework does
-not transfer intact*, rather than stating the failure as established. **This is not
-hedging for its own sake.** A claim about the contents of a literature requires a
-systematic review to support; a claim about what a targeted search returned requires only
-that the search be described. The paper makes the second kind, and the argument it carries
-is unaffected — what changes is that the reader is told which one they are being offered.
-
 **Required before submission:** full references in the target venue's format, with a
-reference list; confirmation of the registered study's final status; and — if either
-absence claim is to be strengthened from *we did not locate* to *there is none* — a
-systematic search of the neuroethics literature for Section 2 and of the pre-commitment
-literature for Section 8, each reported with its databases, date range and query terms.
+reference list; confirmation of the registered study's final status; and — if the claim in Section 2 is to be
+strengthened from *we did not locate* to *there is none* — a systematic search of the
+neuroethics literature, reported with its databases, date range and query terms.
 
 ---
 
@@ -325,9 +257,20 @@ Grimmer, H. J., Tangen, J. M., Freydenzon, A., & Laukkonen, R. E. (2023). The il
 insight: Detailed warnings reduce but do not prevent false "Aha!" moments. *Cognition and
 Emotion*, 37(2), 329–338. https://doi.org/10.1080/02699931.2023.2187352
 
+Baker, S., Fenstermacher, E., Davis, R. A., Kern, D. S., Thompson, J. A., Felsen, G., &
+Baumgartner, A. J. (2023). Ethical considerations in closed loop deep brain stimulation.
+*Deep Brain Stimulation*, 3, 8–15. https://doi.org/10.1016/j.jdbs.2023.11.001
+
+Brenna, C. T. A., Chen, S. S., Cho, M., McCoy, L. G., & Das, S. (2023). Steering clear of
+Akrasia: An integrative review of self-binding Ulysses Contracts in clinical practice.
+*Bioethics*, 37(7), 690–714. https://doi.org/10.1111/bioe.13197
+
 Haag, L., Starke, G., Ploner, M., & Ienca, M. (2025). Ethical gaps in closed-loop
 neurotechnology: A scoping review. *npj Digital Medicine*, 8(1), 510.
 https://doi.org/10.1038/s41746-025-01908-4
+
+Koljonen, J. (2020). Larp safety design fundamentals. *JARPS: Japanese Journal of Analog
+Role-Playing Game Studies*, 1, 3e–19e. https://doi.org/10.14989/jarps_1_03e
 
 Schwind, V., Tadesse, N. Z., Silva da Cunha, E., Hamidi, Y., Sultani, S. S., & Sehrt, J.
 (2025). A scoping review of informed consent practices in human–computer interaction
@@ -345,7 +288,11 @@ Ulysses contracts. *Journal of Medicine and Philosophy*, 30(4), 395–409.
 Widdershoven, G., & Berghmans, R. (2001). Advance directives in psychiatric care: A
 narrative approach. *Journal of Medical Ethics*, 27(2), 92–97.
 
-*Pending — the adaptive DBS consent discussion quoted in Section 2; the registered
-hypnotic-susceptibility and psychophysiology study described in Section 4; the Nordic live
-action role-play safety literature drawn on in Section 7; the integrative review of
-self-binding agreements (PubMed 37366064).*
+*Pending — the registered study in Section 4 is ClinicalTrials.gov NCT07102810 (Icahn
+School of Medicine at Mount Sinai; PI David L. Reich; Harvard Group Scale of Hypnotic
+Susceptibility, Form A, with EEG and wearable physiological measurement); the channel
+count stated in Section 4 requires confirmation against the trial's outcome-measures table
+before publication. Individual attributions for the role-play mechanics in Section 7 —
+Fatland and the Nordic safeword tradition for Cut and Brake, Brown, Bowman and Greene for
+the OK Check-In, Edwards for Lines and Veils, Sheldon for Script Change, Stavropoulos for
+the X-Card — are pending resolution to citable form.*
