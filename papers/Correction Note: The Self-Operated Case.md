@@ -87,3 +87,15 @@ These questions are more faithful to the originating experience than a single ha
 
 This correction does not weaken *The Null Condition* or *Consent Conditions*.  
 It only prevents *The Self-Operated Case* from being framed more narrowly than the phenomenon it is meant to describe. The null condition (absence of the classical container) remains the broader delivery environment in which the self-operated case occurs. The vulnerability-triggering risk applies across that environment and should be reflected in all three papers where relevant.
+
+## 8. Forward research directions (from independent exploration)
+
+The corrected framing opens several concrete lines of inquiry that remain under-studied:
+
+- Treat the classical container features (operator, boundary, consent timing, reversal, witness) as independently variable rather than binary.
+- Map different anchor combinations (content specificity × duration) in self-directed AI use instead of declaring one variable unbindable.
+- Test whether the absorption trait predicts depth of engagement and belief shift in extended AI conversation.
+- Explore content-blind monitoring as a way to add an external stop without fully collapsing the null condition.
+- Distinguish the first-person conversational case from ambient feeds as a qualitative difference in lost protections.
+
+These directions grow from the core gap (suggestion studied only inside protected formats; the unprotected format is now ordinary) and should not be collapsed back into ordinary persuasion or clinical closed-loop literature.
