@@ -1,55 +1,67 @@
-# Absorption and Conversational AI
+# Suggestion Without a Container
 
-Preregistrations and study materials on trait absorption as a moderator of how people
-interact with large language models.
+**The question this repository exists to ask:** every arrangement in which suggestion has
+been studied for the past century and a half supplies the same five things — an operator,
+a marked beginning and end, a consent moment, a reversal cue, and a witness. What happens
+when suggestion is delivered at length and none of them is present?
 
-## The question
-
-Trait absorption — the disposition toward deep, self-altering attention — is a
-well-measured individual difference with a fifty-year literature. It predicts hypnotic
-responsiveness and narrative transportation. It has not been examined against
-outcomes in extended conversation with a language model.
-
-Recent work has approached the hypnosis–LLM comparison from the model's side, asking
-whether an LLM's processing resembles hypnotic cognition. This repository approaches
-it from the person's side: whether a measured human trait stratifies what happens to
-someone during extended interaction.
+That arrangement has not been studied. It could not easily be created for study, because
+placing an observer inside it restores one of the five features and produces a different
+object. **It is now the ordinary condition of extended interaction with conversational
+systems**, which means it does not need to be created — it can be observed.
 
 ## What is here
 
-| | |
+**Three working papers**, ordered so each rests on the one before it. All are version 0.1
+or 0.3, incomplete by design, and each states what it still lacks.
+
+| Paper | What it argues |
 |---|---|
-| `CANDIDATES.md` | Every direction under consideration, stated in field vocabulary |
-| `papers/` | Position and perspective pieces |
-| `preregistrations/` | Study designs, stated before data collection |
+| [The Null Condition](papers/the-null-condition.md) | The five features are conditions under which *studying* suggestion was permissible, not features of suggestion itself. The mechanism does not require them |
+| [Consent Conditions for Non-Clinical Closed-Loop Suggestion Systems](papers/consent-in-closed-loop-suggestion.md) | Four structural conditions a defensible arrangement would satisfy, four contexts in which they are satisfiable to different degrees, and a design vocabulary drawn from an unexpected source |
+| [The Self-Operated Case](papers/the-self-operated-case.md) | Where operator and subject are the same person, a self-imposed commitment can bind duration but not content — because the reduction of critical resistance is what the state consists of |
 
-Nothing else, and the file count is a deliberate constraint. Materials and analysis code
-are added when a study runs.
+**A candidate register.** [CANDIDATES.md](CANDIDATES.md) holds 47 research directions,
+each restated in the vocabulary of the field that would evaluate it, and each carrying its
+status: unchecked, checked and open, checked and occupied, or retired. **It is a triage
+queue, not a research agenda.** Entries are retired when the work turns out to have been
+done — most recently A2, when the study it proposed was published by another group.
 
-## How the register works
+**One preregistration.**
+[Absorption and error detection](preregistrations/absorption-and-error-detection.md),
+examining trait absorption as a moderator of how people interact with language models.
+Its premises were checked against the literature and returned qualified; the design is
+retained and the claim it can support is narrower than originally stated.
 
-`CANDIDATES.md` is a triage queue. Every direction under consideration is listed there in
-the vocabulary of the field that would evaluate it, with a status set by a dated search
-rather than by impression.
+## What this repository does not claim
 
-**Entries are supposed to leave.** They graduate to `papers/` or `preregistrations/`, or
-they move to the excluded section with a record of what occupies them. Nothing sits
-indefinitely, and nothing is held that cannot be stated in its field's terms.
+**Priority.** Searches have not located a description of the null condition or the
+self-operated configuration in the adaptive-systems, persuasion, source-monitoring or
+hypnosis literatures. That is a report of what the searches returned, not a claim about
+what exists. Upgrading it would require a systematic review with stated databases, date
+range and query terms.
 
-Directions judged already-occupied are listed with what occupies them, so exclusions are
-auditable rather than assumed.
+**Completion.** Every paper here carries a section naming what it lacks. The largest gap
+is that the self-operated case is argued entirely from structure and rests on no collected
+accounts.
 
-## Standards
+**Findings.** Nothing here reports an experiment. The arguments are structural, and the
+empirical work they point at has not been done.
 
-- **Every citation is verified against the source before use.** Not recalled, and not
-  taken from another document's bibliography.
-- **Predictions are stated with falsifiers**, before data exists.
-- **Confounds are listed in advance**, including the ones that would make a positive
-  result uninteresting.
-- **Nothing is claimed as novel without a dated literature check**, recorded with what
-  it found.
+## Related
 
-## Status
+The framework these questions came out of is
+[The Human Algorithm](https://adamwarren3.github.io/tha/), which maintains a 60-entry
+evidence register with every claim carrying a class: externally sourced, framework
+position with no source claimed, or currently unverifiable with the gap stated.
 
-Nothing here has been peer reviewed. Nothing here has been executed. These are stated
-predictions and the reasoning behind them.
+## Who
+
+Adam Warren — independent researcher, working on human–AI interaction, suggestion, and
+epistemic practice. [Background and standing disclosures](https://adamwarren3.github.io/tha/about.html).
+
+Not a clinician. Not affiliated with an academic institution.
+
+## Licence
+
+CC BY 4.0. Use the work, cite the source.
