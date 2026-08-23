@@ -251,7 +251,14 @@ neuroethics and human–computer interaction literatures.
 **A defensible operationalisation of the container.** The five features are stated here
 descriptively. Whether they are separable, whether some are load-bearing and others
 decorative, and whether they can be scored on existing published protocols, is not
-established.
+established. **A precedent exists and has not been applied.** Fromm and Kahn (1990)
+separated the practices grouped under "self-hypnosis" into thirteen types, coded on
+whether a hypnotist was involved, whether the induction was hypnotist-led, whether the
+setting was clinically defined, whether suggestion was involved, and where the suggestions
+originated. That scheme treats structural features of an arrangement as separable and
+codable, over a narrower domain than this paper's. Extending it — or building on its logic
+across the wider suggestion literature — is the obvious route to scoring the five features
+here, and it has not been attempted.
 
 **A worked protocol.** Section 5 argues that content-blind monitoring leaves the
 arrangement intact and names three viable approaches. None is specified. What threshold a
@@ -276,6 +283,8 @@ frequency, motivations, and delusion-like experiences: Cross-sectional survey st
 Braffman, W., & Kirsch, I. (1999). Imaginative suggestibility and hypnotizability: An
 empirical analysis. *Journal of Personality and Social Psychology*, 77(3), 578–587.
 https://doi.org/10.1037/0022-3514.77.3.578
+
+Fromm, E., & Kahn, S. (1990). *Self-hypnosis: The Chicago paradigm*. Guilford Press.
 
 Hull, C. L., & Huse, B. (1930). Comparative suggestibility in the trance and waking
 states. *American Journal of Psychology*, 42(2), 279–286.

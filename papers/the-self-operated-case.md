@@ -59,11 +59,35 @@ did not set out to be changed. Here the mind set out.
 came from. Here the person knows exactly where it came from, because they went and got
 it — and knowing does not reduce the effect, which is the point.
 
-The hypnosis literature has self-hypnosis, and it is the closest neighbour. But
-self-hypnosis is studied as a technique a person performs unaided, or with a recording
-they or a clinician prepared in advance. **The instrument in that literature does not
-generate new material in response to the subject during the session.** That is the
-feature this configuration adds, and we have not located a treatment of it.
+**Self-hypnosis is the closest neighbour, and the boundary is not where it first appears.**
+An obvious distinction would be responsiveness — that the instrument here generates new
+material during the session, where self-hypnosis uses a script, a recording, or unaided
+technique. That distinction does not hold. A commercial category of AI hypnosis
+applications now generates sessions from a user's stated situation and adapts them during
+delivery, and the most clinically credible of them was developed by a hypnosis researcher.
+Responsive generation is available and in use.
+
+**The boundary is the container.** Those applications retain the structure the practice has
+always had: an announced beginning, an induction, a deepening, therapeutic suggestion, and
+an emergence that ends the session. A reviewer of them tests for exactly that sequence. The
+application occupies the operator role; the arrangement has a boundary; the session ends.
+**What they are is a contained arrangement with an automated operator**, which is a
+different object from the one described here and a much safer one.
+
+The configuration in this paper has none of that. A general-purpose system with no session
+structure, no induction and no emergence, occupying no operator role, engaged over weeks
+rather than in sessions, with the intention supplied entirely by the person. **The
+distinguishing feature is not that the instrument responds. It is that nothing around the
+exchange is arranged.**
+
+**The self-hypnosis literature also supplies a scheme this paper can use.** Fromm and Kahn
+(1990) separated the practices grouped under that heading into thirteen types, coded on
+whether a hypnotist was involved, whether the induction was hypnotist-led, whether the
+setting was clinically defined, whether suggestion was involved, and where the suggestions
+originated. **That is an existing precedent for treating the structural features of an
+arrangement as separable and codable**, which is what an account of this configuration
+requires. None of the thirteen describes the case here, and we have not located a
+subsequent extension that does.
 
 ## 3. The instrument's cooperation
 
@@ -237,6 +261,8 @@ commitment-device discussion cite further work pending resolution.*
 
 Allcott, H., Gentzkow, M., & Song, L. (2022). Digital addiction. *American Economic
 Review*, 112(7), 2424–2463. https://doi.org/10.1257/aer.20210867
+
+Fromm, E., & Kahn, S. (1990). *Self-hypnosis: The Chicago paradigm*. Guilford Press.
 
 Braffman, W., & Kirsch, I. (1999). Imaginative suggestibility and hypnotizability: An
 empirical analysis. *Journal of Personality and Social Psychology*, 77(3), 578–587.
