@@ -1,13 +1,13 @@
 ---
 title: "The Self-Operated Case: Suggestion Where the Operator Is the Subject"
-status: Working paper. Incomplete — see Section 8.
+status: Working paper. Incomplete — see Section 9.
 version: 0.1
 date: 2026-08-20
 ---
 
 # The Self-Operated Case: Suggestion Where the Operator Is the Subject
 
-**Working paper, version 0.1.** An argument in progress; Section 8 states what it lacks.
+**Working paper, version 0.1.** An argument in progress; Section 9 states what it lacks.
 
 **Companion papers.** *The Null Condition: Suggestion Without an Arrangement* sets out the
 delivery arrangement this paper's configuration occurs inside. *Consent Conditions for
@@ -68,11 +68,21 @@ delivery, and the most clinically credible of them was developed by a hypnosis r
 Responsive generation is available and in use.
 
 **The boundary is the container.** Those applications retain the structure the practice has
-always had: an announced beginning, an induction, a deepening, therapeutic suggestion, and
-an emergence that ends the session. A reviewer of them tests for exactly that sequence. The
-application occupies the operator role; the arrangement has a boundary; the session ends.
-**What they are is a contained arrangement with an automated operator**, which is a
-different object from the one described here and a much safer one.
+always had. The most clinically credible of them describes a session as opening with an
+induction that narrows attention, moving to suggestions tied to a stated goal, and closing
+with a deliberate reorientation — ten minutes, eyes closed, guided from start to finish.
+Independent reviewers of the category test for precisely that sequence: induction,
+deepening, therapeutic suggestion, emergence. **We did not locate a product in this
+category that operates without session boundaries or in open-ended conversation.** The
+application occupies the operator role; the arrangement has a beginning and an end; the
+session closes with an explicit return.
+
+**What they are is a contained arrangement with an automated operator** — a different
+object from the one described here, and a better-evidenced one. A retrospective
+observational study of one such application reported consistent reductions in
+self-reported stress across 282,893 sessions from 84,395 users. **The contained version of
+this activity is delivered at scale, studied, and published. The uncontained version is
+none of those things**, which is the asymmetry this paper exists to name.
 
 The configuration in this paper has none of that. A general-purpose system with no session
 structure, no induction and no emergence, occupying no operator role, engaged over weeks

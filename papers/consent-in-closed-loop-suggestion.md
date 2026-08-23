@@ -1,12 +1,12 @@
 # Consent Conditions for Non-Clinical Closed-Loop Suggestion Systems
 
 **Working paper, v0.3** — 2026-08-20. Not submitted. Not peer reviewed.
-**Type:** perspective / position piece. An argument in progress; Section 8 states what it
+**Type:** perspective / position piece. An argument in progress; Section 9 states what it
 lacks.
 
 **Companion papers.** *The Null Condition: Suggestion Without an Arrangement* sets out the
-arrangement these conditions are written against. A third paper, on the self-operated
-case, is in preparation.
+arrangement these conditions are written against. *The Self-Operated Case: Suggestion Where the
+Operator Is the Subject* treats the configuration in which the subject is also the operator.
 
 ---
 
@@ -203,8 +203,8 @@ uniform.**
 The distinction the evidence supports is between causation and amplification. It does not
 support the claim that interaction with a conversational system produces psychosis in a
 person carrying no predisposition. **It does support the claim that sustained interaction
-without an operator, a boundary, a reversal cue or a witness can trigger or amplify
-episodes in a person who already carries vulnerability.** A cross-sectional survey of
+without an operator, a boundary, a consent moment, a reversal cue or a witness can trigger
+or amplify episodes in a person who already carries vulnerability.** A cross-sectional survey of
 1,003 young adults found those at elevated psychosis risk no more likely to have ever used
 a generative system, but markedly more likely to use one intensively, to seek emotional
 support from it, and to engage it on beliefs they already held (Buck & Maheux, 2026). The
@@ -315,9 +315,22 @@ narrative approach. *Journal of Medical Ethics*, 27(2), 92–97.
 
 *Pending — the registered study in Section 4 is ClinicalTrials.gov NCT07102810 (Icahn
 School of Medicine at Mount Sinai; PI David L. Reich; Harvard Group Scale of Hypnotic
-Susceptibility, Form A, with EEG and wearable physiological measurement); the channel
-count stated in Section 4 requires confirmation against the trial's outcome-measures table
-before publication. Individual attributions for the role-play mechanics in Section 7 —
-Fatland and the Nordic safeword tradition for Cut and Brake, Brown, Bowman and Greene for
-the OK Check-In, Edwards for Lines and Veils, Sheldon for Script Change, Stavropoulos for
-the X-Card — are pending resolution to citable form.*
+Susceptibility, Form A, with EEG and wearable physiological measurement); the channel count
+stated in Section 4 requires confirmation against the trial's outcome-measures table before
+publication.*
+
+*Attributions for the role-play mechanics in Section 7, verified 2026-08-22 except where
+noted. **OK Check-In, Lookdown and Pronoun Correction** — Brown, Maury Elizabeth, "Safety and
+Calibration Design Tools and Their Uses," in a Knutepunkt companion volume published by ETC
+Press, Carnegie Mellon University; the chapter dates the tools to June 2016 and describes
+their origins and use. The volume title and year require confirmation. **X-Card** —
+originated by John Stavropoulos. **Script Change** — originated by Brie Beau Sheldon.
+**Cut and Brake (Kutt and Brems)** — documented as developed by the Nordic larp community
+collectively rather than by a single author, with Fatland among those who documented the
+practice; the paper should attribute it to the tradition rather than to an individual.
+**Lines and Veils** — attribution is contested in the available sources: some credit Ron
+Edwards with coining the terms in tabletop design, while a widely used practitioner
+reference directs enquiries to Emily Care Boss. This is unresolved and the paper should not
+name a single originator until it is. Adjacent and citable from the same ETC Press volume:
+Svanevik, Martine & Brind, Simon, "Playing Safe?", an interview study of Nordic larp
+designers on whether safety practice has constrained the form.*

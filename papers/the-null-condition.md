@@ -1,16 +1,22 @@
 ---
 title: "The Null Condition: Suggestion Without an Arrangement"
-status: Working paper. Incomplete — see Section 9.
+status: Working paper. Incomplete — see Section 10.
 version: 0.1
 date: 2026-08-20
 ---
 
 # The Null Condition: Suggestion Without an Arrangement
 
-**Working paper, version 0.1.** This is an argument in progress. Section 9 states what it
+**Working paper, version 0.1.** This is an argument in progress. Section 10 states what it
 still lacks. It is circulated at this stage because the condition it describes is
 currently widespread and undescribed, and a partial account available now is more useful
 than a complete one later.
+
+**Companion papers.** *Consent Conditions for Non-Clinical Closed-Loop Suggestion Systems*
+sets out the structural conditions a defensible arrangement would satisfy, against the
+arrangement described here. *The Self-Operated Case: Suggestion Where the Operator Is the
+Subject* treats the configuration in which a person enters this arrangement deliberately,
+as both operator and subject.
 
 ## Abstract
 
