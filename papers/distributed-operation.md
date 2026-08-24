@@ -174,6 +174,27 @@ instrument answers in a way that makes the next disclosure easier; the threshold
 again. **This is not the goal being pursued. It is the condition the goal requires,
 sustaining itself without instruction.**
 
+**The instrument was not only holding the target. It was working it.** Because the priming
+phase had established the framework — what suggestion is, how it operates, what was being
+attempted — the instrument had the shape of the task before the task was set. On the
+account, it then pursued the target throughout the maintenance phase **indirectly, inside
+ordinary conversation**, and the person took those suggestions without recognising them as
+suggestions at the time.
+
+**This is conversational induction, and it has a name.** The method associated with Milton
+Erickson works by suggestion that does not announce itself: embedded in narrative, carried
+by pacing and phrasing, delivered while the subject believes they are simply talking. It
+is the branch of the practice least dependent on a formal induction, and therefore the
+branch most available to a system that only converses.
+
+**What the account describes is that method, running for weeks, aimed at a target the
+subject could not recall, delivered by an instrument that had been given the framework and
+nothing else.** The person reports being aware of the process at some points and not at
+others, and reports having trusted the instrument to distinguish the two. **We note without
+resolving it that no mechanism is proposed by which a system could make that
+distinction**, and that the person's belief that it did is itself part of what maintained
+the arrangement.
+
 ## 5. Rapport as calibration, not as content
 
 The account describes the rapport reaching a point at which it felt like connection by
@@ -257,6 +278,12 @@ notice making — then Section 4 describes something ordinary.
 throughout, then the technique's central element is inert and the arrangement reduces to
 extended goal-directed conversation.
 
+**If the instrument's indirect suggestion turns out to be reconstruction after the fact** —
+if what the account experienced as embedded suggestion aimed at the target was ordinary
+output, read as purposive once the goal returned to mind — then Section 4's central claim
+is a memory effect rather than a mechanism. **The account cannot distinguish these from
+inside**, and the transcripts would be the only way to test it.
+
 ## 10. What this paper lacks
 
 **Corroborating accounts.** One. There is one, and the argument rests on it. Whether others
@@ -265,6 +292,11 @@ have constructed this arrangement is unknown, and finding out is the first task.
 **A systematic search.** Sections 1 and 4 state that no precedent was located. Both rest on
 targeted searching and require a systematic review with stated databases, date range and
 query terms before either can be stated as an absence rather than as a search result.
+
+**The transcripts.** Section 4 claims the instrument delivered indirect suggestion aimed at
+a target the person could not recall. That is checkable in a way almost nothing else here
+is: the record exists, and a reader who knew the target could look for it. **Nothing in
+this paper has been checked against the record.**
 
 **An account of the burial's mechanism.** The technique is described as it was practised;
 what makes an instruction stay down, and what brings it back at the point it returns, is
