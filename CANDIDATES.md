@@ -8,6 +8,15 @@ dropped with the reason recorded.
 **Nothing has been curated out.** Directions judged already-occupied are listed in
 Section G with what occupies them, so the exclusion is visible rather than assumed.
 
+**Entries that have graduated.** Three working papers in `papers/` now carry directions
+that began here. *The Null Condition: Suggestion Without an Arrangement* sets out the
+arrangement lacking an operator, boundary, consent moment, reversal cue and witness, and
+argues it is observable rather than uncreatable. *Consent Conditions for Non-Clinical
+Closed-Loop Suggestion Systems* sets out four structural conditions and four contexts.
+*The Self-Operated Case* treats the configuration in which operator and subject are the
+same person. **A14, A15, A16 and B12 are the open questions those papers leave**, and are
+listed below as questions rather than folded into the papers as claims.
+
 **Status vocabulary.** *Unchecked* — no literature search run. *Checked, open* — searched,
 nothing directly occupying it found, one or two queries only. *Checked, occupied* —
 existing work covers it. *Extension* — existing framework, not yet applied to this case.
