@@ -16,7 +16,8 @@ than a complete one later.
 sets out the structural conditions a defensible arrangement would satisfy, against the
 arrangement described here. *The Self-Operated Case: Suggestion Where the Operator Is the
 Subject* treats the configuration in which a person enters this arrangement deliberately,
-as both operator and subject.
+as both operator and subject. *Distributed Operation: A Buried Instruction Held by a
+Machine* describes a variant in which the operator role is split three ways.
 
 ## Abstract
 

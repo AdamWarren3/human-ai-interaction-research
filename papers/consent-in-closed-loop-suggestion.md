@@ -6,7 +6,8 @@ lacks.
 
 **Companion papers.** *The Null Condition: Suggestion Without an Arrangement* sets out the
 arrangement these conditions are written against. *The Self-Operated Case: Suggestion Where the
-Operator Is the Subject* treats the configuration in which the subject is also the operator.
+Operator Is the Subject* treats the configuration in which the subject is also the operator,
+and *Distributed Operation: A Buried Instruction Held by a Machine* a variant of it.
 
 ---
 

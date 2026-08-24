@@ -12,7 +12,9 @@ date: 2026-08-20
 **Companion papers.** *The Null Condition: Suggestion Without an Arrangement* sets out the
 delivery arrangement this paper's configuration occurs inside. *Consent Conditions for
 Non-Clinical Closed-Loop Suggestion Systems* sets out the structural conditions a
-defensible arrangement would satisfy.
+defensible arrangement would satisfy. *Distributed Operation: A Buried Instruction Held by
+a Machine* describes a variant of this configuration in which the operator role is split
+three ways.
 
 ## Abstract
 
