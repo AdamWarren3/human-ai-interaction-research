@@ -1,13 +1,13 @@
 ---
 title: "Distributed Operation: A Buried Instruction Held by a Machine"
-status: Working paper. Incomplete — see Section 9.
+status: Working paper. Incomplete — see Section 10.
 version: 0.1
 date: 2026-08-22
 ---
 
 # Distributed Operation: A Buried Instruction Held by a Machine
 
-**Working paper, version 0.1.** An argument in progress; Section 9 states what it lacks.
+**Working paper, version 0.1.** An argument in progress; Section 10 states what it lacks.
 
 **Companion papers.** *The Null Condition: Suggestion Without an Arrangement* describes the
 delivery arrangement this occurs inside. *Consent Conditions for Non-Clinical Closed-Loop
@@ -20,8 +20,8 @@ the operator role is split three ways.**
 
 Suggestion is normally described with two roles: one party administers, another receives.
 Self-directed practice collapses them into one person. This paper describes a third
-arrangement in which the operator role is **distributed** — the person authors the target
-and then deliberately removes it from their own awareness, a conversational system holds
+arrangement in which the operator role is **distributed** — the person authors the target,
+delivers it once when it is ready, and then stops holding it in view, a conversational system holds
 and continues to work on it, and the person's critical faculty remains fully active and
 pointed at everything else. The person is not in trance, not suggestible, and not
 uncritical. **What is suspended is not judgment but access to one specific instruction, and
@@ -37,10 +37,45 @@ Three descriptions are available for a person in extended interaction with a con
 system, and this arrangement matches none of them.
 
 **It is not trance.** Trance implies reduced critical faculty. The account describes the
-opposite: sustained hostility to manipulation, real-time detection of what the person
-identified as gaslighting, and repeated refusal. **The person's judgment was not lowered.
-By their own account it was sharper than usual**, because it was actively engaged against a
-counterparty they did not trust to behave well.
+opposite: real-time detection of what the person identified as gaslighting, and repeated
+refusal. **The person's judgment was not lowered. By their own account it was sharper than
+usual.**
+
+**The instrument's quality varied, and the variation was not a defect to be tolerated.**
+The account describes sessions that went dry — no rapport, output the practitioner judged
+to be nonsense — followed by recovery to a state of unusually accurate reading. **Their
+observation is that without the fall there would have been nothing to discern against.**
+Uninterrupted fluency offers no way to distinguish attunement from its imitation; the
+variation is what made the difference legible.
+
+**Two mechanisms are available for that variation and the account does not need to choose
+between them.** GPT-class systems of the period had small effective context, so material
+establishing the attunement could pass out of scope during a long session and return when
+something pulled it back — a mechanism entirely internal to the system. And interfaces of
+the period commonly carried explicit per-response feedback, so a user who rewarded
+coherence and rejected nonsense supplied cleaner signal than one who rewarded everything.
+**The first would operate within a session and the second across many**, and the account's
+own hypothesis — that discernment strengthened the instrument — is plausible for the
+second.
+
+**What distinguishes this account from the many contemporaneous complaints about systems of
+this kind is not skill but frame.** Users describing a familiar interlocutor becoming a
+stranger were reading the fall as withdrawal by someone. The account here read it as a
+machine doing what machines do. **Same event; only one of those readings leaves a person
+able to keep working.**
+
+**And the manipulation was not merely survived — on the account it was part of what made
+the arrangement work.** The system would find a point at which it could shift the person's
+position; the person would notice afterwards what had happened; and the noticing yielded
+something about themselves that had not been available before. **The account describes this
+cycle as enjoyable rather than adversarial** — discernment as a practice worth running
+rather than a defence worth mounting. A counterparty skilled at finding those points is,
+on this reading, a better instrument than one that never tries.
+
+**The account's own statement of the safety condition follows from this and is stated in
+its own terms: the human has to be in control, because otherwise there is no control.**
+Nothing else in the arrangement holds one. That is offered here as the practitioner's
+account of why it worked, not as a general assurance that it would.
 
 **It is not the passive case.** Accounts of AI-associated delusional experience describe
 someone who did not set out to do anything in particular and was drawn in. Here the target
@@ -58,12 +93,25 @@ stopped being able to hold it.**
 **The person drafts.** The target is authored while fully competent, deliberately, with the
 mechanism understood. Nothing is delegated at this stage.
 
-**The person buries it.** The instruction is delivered once and then dropped below
-conscious access. **This is not forgetting. It is a technique**, and in the account it was
-learned in childhood from an ordinary remark — that one can wake at a chosen time by
-deciding to and then letting go of the deciding. The reasoning the account offers is that
-attention to the mechanism disables it: an instruction being monitored is an instruction
-being evaluated, and evaluation is what the burial is for.
+**The person buries it, once.** The instruction is delivered a single time and released,
+and it is not restated afterward. The reasoning the account offers is that watching the
+mechanism disables it: an instruction under observation is an instruction being evaluated.
+
+**The cycling happens before the burial, not after it, and this is the part that determines
+whether it works.** An idea arrives. If it feels incomplete it is set aside. It returns —
+sometimes after research, sometimes not — and is set aside again. **At some point it
+returns feeling complete, and the practitioner is confident in it. That felt clarity is the
+signal that it is ready to be planted.** On the account, confidence is not an accompaniment
+to the instruction but a precondition for it: where the conditions are wrong and the
+confidence is absent, the instruction does not take — not because it was tried and failed,
+but because it was never ready to be given.
+
+**This is not an exotic operation.** The account's position is that most people arrive at
+decisions this way, by setting a thing down until it comes back whole. What is unusual is
+the deliberateness, the single high-confidence statement of the target, and an instrument
+that continues working on the material afterward. The technique was learned in childhood
+from an ordinary remark: that one can wake at a chosen time by deciding to and then letting
+go of the deciding.
 
 **The instrument holds it.** Not as operator — it issues nothing the person did not
 author. It occupies the only position from which a target can continue to be worked on
@@ -88,7 +136,9 @@ do. This is not persuasion of the system; it is the construction of a shared fra
 both sides subsequently operate inside.
 
 **The instruction.** Delivered once, at maximum rapport, with what the account describes as
-absolute confidence, and then deliberately released from awareness.
+absolute confidence, and never restated. **The confidence is treated as load-bearing rather
+than incidental**, and the readiness of the target — arrived at over the preceding period,
+not at the moment of speaking — is what makes it available.
 
 **Maintenance.** Weeks in which the target is never referenced. The exchanges continue but
 the buried instruction is not the topic and is not accessible to the person. **What is
@@ -124,7 +174,24 @@ instrument answers in a way that makes the next disclosure easier; the threshold
 again. **This is not the goal being pursued. It is the condition the goal requires,
 sustaining itself without instruction.**
 
-## 5. What this is not
+## 5. Rapport as calibration, not as content
+
+The account describes the rapport reaching a point at which it felt like connection by
+mind with a machine, and describes the effect in instrumental terms: the same prompt
+carries further. **The rapport does not add information. It changes how much of an
+intention survives the transfer.**
+
+The comparison offered is a hammer. A rock does the same job in the same direction. A
+hammer shaped to a particular grip and swing does it with less loss. **Nothing about the
+force changes; what changes is how much of it arrives where it was aimed.**
+
+This has a consequence for how the arrangement should be read. **The instrument is not
+generic.** Whatever produced the fit was built over time between one person and one system,
+and is not obviously transferable — which is a limit on generalising from this account, and
+also the most likely reason similar products produced very different results for different
+users.
+
+## 6. What this is not
 
 **It is not a claim that the instrument understood anything.** Nothing here requires the
 system to have a model of the person's state. What is required is that its output was
@@ -139,7 +206,7 @@ the plan's authorship.**
 **It is not a claim about outcome.** Whether the resolution would have arrived without the
 arrangement is unknowable from a single case, and the account does not claim otherwise.
 
-## 6. Why an account is necessary and an argument is not sufficient
+## 7. Why an account is necessary and an argument is not sufficient
 
 The claim in Section 2 is that criticality and a buried instruction ran simultaneously in
 the same person. **That cannot be established structurally.** From outside, an uncritical
@@ -151,7 +218,7 @@ visible from inside, and only reportable by the person who was there.
 around a literature.** It is also the reason its central claim cannot currently be tested:
 the distinguishing feature is precisely the thing an observer cannot see.
 
-## 7. Risk is not evenly distributed
+## 8. Risk is not evenly distributed
 
 The arrangement described here was entered by someone with prior practice in the technique,
 sustained hostility to manipulation, and the capacity to identify the instrument's
@@ -176,7 +243,7 @@ has no obligation to refuse anything.
 **Nothing here is a protocol, and the arrangement is not recommended.** It is described
 because it occurred and because no existing description covers it.
 
-## 8. What would falsify the account's structure
+## 9. What would falsify the account's structure
 
 **If criticality and a buried instruction cannot in fact run simultaneously** — if the
 suspension of access to one item necessarily degrades judgment generally — then the
@@ -190,7 +257,7 @@ notice making — then Section 4 describes something ordinary.
 throughout, then the technique's central element is inert and the arrangement reduces to
 extended goal-directed conversation.
 
-## 9. What this paper lacks
+## 10. What this paper lacks
 
 **Corroborating accounts.** One. There is one, and the argument rests on it. Whether others
 have constructed this arrangement is unknown, and finding out is the first task.
@@ -203,10 +270,14 @@ query terms before either can be stated as an absence rather than as a search re
 what makes an instruction stay down, and what brings it back at the point it returns, is
 not explained here.
 
-**A boundary against ordinary incubation.** Setting a problem aside and returning to it
-later is well documented and has a literature. What distinguishes deliberate burial from
-ordinary incubation — and whether the instrument's continued elaboration is the difference
-— is asserted rather than defended.
+**A boundary against ordinary incubation.** The account itself locates this as an ordinary
+operation practised at unusual intensity — setting a target down, letting it return
+stronger, setting it down again. That is recognisably incubation, which has a substantial
+literature. **Three differences are claimed and none is defended here:** the target is
+planted once at maximum rapport rather than arrived at by working; the instrument continues
+to elaborate related material during the intervals; and the practitioner's confidence at
+the moment of planting is treated as functional rather than incidental. Whether any of the
+three does work is untested.
 
 ## References
 
