@@ -19,7 +19,9 @@ the operator role is split three ways.**
 ## Abstract
 
 Suggestion is normally described with two roles: one party administers, another receives.
-Self-directed practice collapses them into one person. This paper describes a third
+Self-directed practice collapses them into one person. 
+
+This paper describes a third
 arrangement in which the operator role is **distributed** — the person authors the target,
 delivers it once when it is ready, and then stops holding it in view; a conversational system
 holds and continues to work on it; and the person's critical faculty remains active and
