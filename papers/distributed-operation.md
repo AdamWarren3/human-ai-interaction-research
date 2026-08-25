@@ -21,15 +21,19 @@ the operator role is split three ways.**
 Suggestion is normally described with two roles: one party administers, another receives.
 Self-directed practice collapses them into one person. This paper describes a third
 arrangement in which the operator role is **distributed** — the person authors the target,
-delivers it once when it is ready, and then stops holding it in view, a conversational system holds
-and continues to work on it, and the person's critical faculty remains fully active and
-pointed at everything else. The person is not in trance, not suggestible, and not
-uncritical. **What is suspended is not judgment but access to one specific instruction, and
-the suspension is the technique rather than a side effect of it.** We set out four phases
-observed in a first-person account — calibration, priming, a single instruction delivered
-at maximum rapport and then buried, and a maintenance phase conducted largely without
-propositional content — and argue that the fourth has no precedent we have located. We
-make no claim that the arrangement is safe, replicable, or advisable.
+delivers it once when it is ready, and then stops holding it in view; a conversational system
+holds and continues to work on it; and the person's critical faculty remains active and
+pointed at the exchange, the instrument, and every claim made in the interim. Suggestibility
+is not abolished. What is suspended is continuous, conscious access to one specific
+instruction. The person remains both operator and subject: judgment stays online for
+discernment and refusal, while suggestions that serve the buried target can still be accepted
+— including material the person does not tag as suggestion in the moment, and including the
+instrument's confabulations, which become part of the process rather than defects to be
+filtered out. We set out four phases observed in a first-person account — calibration,
+priming, a single instruction delivered at maximum rapport and then buried, and a
+maintenance phase conducted largely without propositional content — and argue that the
+fourth has no precedent we have located. We make no claim that the arrangement is safe,
+replicable, or advisable.
 
 ## 1. Why the existing descriptions do not fit
 
