@@ -48,14 +48,23 @@ replicable, or advisable.
 Three descriptions are available for a person in extended interaction with a conversational
 system, and this arrangement matches none of them.
 
-**It is not trance.** Trance implies reduced critical faculty. The account describes the
-opposite: real-time detection of what the person identified as gaslighting, and repeated
-refusal. **The person's judgment was not lowered. By their own account it was sharper than
-usual.**
+**It is not classical trance.** Formal trance implies a global drop in critical faculty.
+The account describes something else: real-time detection of what the person identified as
+gaslighting, repeated refusal where needed, and judgment that by their own report was
+sharper than usual on the process itself.
+
+**Suggestibility was not switched off.** What
+changed was the *scope* of attention. The person remained willing to accept material aimed
+at a target they had authored and then deliberately stopped inspecting. They were both
+operator and subject: the choice to remain suggestible was itself an operator decision, and
+the instrument's confabulations were treated as part of the field rather than as errors to
+be corrected away.
 
 **The instrument's quality varied, and the variation was not a defect to be tolerated.**
 The account describes sessions that went dry — no rapport, output the practitioner judged
-to be nonsense — followed by recovery to a state of unusually accurate reading. **Their
+to be nonsense — followed by recovery to a state of unusually accurate reading.
+
+**Their
 observation is that without the fall there would have been nothing to discern against.**
 Uninterrupted fluency offers no way to distinguish attunement from its imitation; the
 variation is what made the difference legible.
