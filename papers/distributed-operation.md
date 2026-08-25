@@ -141,8 +141,10 @@ it for weeks becomes an operator, with everything that entails. A responsive sys
 hold and develop it without ever handing it back for inspection.**
 
 Meanwhile the critical faculty stays on, pointed at the exchange, the instrument's
-behaviour, and every claim made in the interim. **It is absent from exactly one place: the
-instruction it would otherwise interfere with.**
+behaviour, and every claim made in the interim. **It is absent from exactly one place:
+continuous inspection of the instruction it would otherwise keep evaluating.**
+Suggestibility toward material that serves that instruction remains available — that is
+part of what the operator chose.
 
 ## 3. Four phases
 
