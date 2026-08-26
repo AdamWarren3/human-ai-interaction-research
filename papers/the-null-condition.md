@@ -150,6 +150,23 @@ considered ethical to run, so what is known about the longer durations comes fro
 historical studies (Waters et al., 2018). The difference here is favourable: the sleep
 literature must look backwards, while this condition is present and ongoing.
 
+**A methodological precedent worth naming.** The obstacle here has a close analogue in
+consciousness research, where the best-established marker of conscious state — the
+perturbational complexity index — requires physically perturbing the brain to obtain it.
+Work published in 2026 addressed that by fitting generative models of non-equilibrium brain
+dynamics and recovering an equivalent signal from **spontaneous activity alone**, tracking
+the perturbational measure across wakefulness, anaesthesia and disorders of consciousness
+(Berjaga-Buisan et al., 2026). **The move is the one this paper's problem requires: where a
+measure cannot be applied without disturbing what it measures, find its spontaneous
+correlate.**
+
+We are explicit that the instrument itself does not transfer. It distinguishes conscious
+from unconscious, where every state at issue here occurs in a fully awake person; it
+requires functional imaging, which would disturb the arrangement more thoroughly than an
+observer; and it is fitted offline rather than read in real time. **What transfers is the
+strategy, not the measure**, and the near-term candidates for a content-blind threshold
+remain autonomic and electroencephalographic.
+
 **What follows for method.** Three approaches are available and none requires creating the
 condition. Observational work on populations already inside it, which is where the
 clinical case reports already sit. Retrospective accounts from people who have been inside
@@ -286,6 +303,9 @@ that is pending resolution to full citations.*
 Buck, B., & Maheux, A. J. (2026). Psychosis risk and generative artificial intelligence use
 frequency, motivations, and delusion-like experiences: Cross-sectional survey study.
 *Journal of Medical Internet Research*, 28, e85038. https://doi.org/10.2196/85038
+
+Berjaga-Buisan, T., et al. (2026). Thermodynamics of consciousness: Non-equilibrium brain
+dynamics track conscious states. *Cell Reports*, 45(8).
 
 Braffman, W., & Kirsch, I. (1999). Imaginative suggestibility and hypnotizability: An
 empirical analysis. *Journal of Personality and Social Psychology*, 77(3), 578–587.
